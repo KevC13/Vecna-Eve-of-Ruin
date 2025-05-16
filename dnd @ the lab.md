@@ -1,1 +1,0 @@
-boom nat 20
