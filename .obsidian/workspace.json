@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,15 +181,15 @@
   },
   "active": "1ad785a40673ed47",
   "lastOpenFiles": [
-    "().md",
+    "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
     "NPC's/Lord Neverember.md",
     "README.md",
+    "().md",
     "IMAGES/00 - Lord Neverember.webp",
     "PC's/Roman.md",
     "PC's/LightningNuts.md",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
-    "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "NPC's/Filomena.md",
     "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
     "PC's/Seraphine.md",

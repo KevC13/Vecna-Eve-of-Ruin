@@ -1,10 +1,10 @@
-MAGIC ITEMS FOUND
+#MAGIC ITEMS FOUND
 - [Shield of Missile Attraction](https://www.dndbeyond.com/magic-items/9814085-shield-of-missile-attraction-uncursed)
 - [Bag of Holding](https://www.dndbeyond.com/magic-items/9228356-bag-of-holding)
 - Scroll of [Protection from Good and Evil](https://www.dndbeyond.com/spells/2618912-protection-from-evil-and-good)
 
 MAJOR PLOT POINTS
-- **Spoke with [Lord Neverember](obsidian://open?vault=Vecna%20Eve%20of%20Ruin&file=NPC's%2FLord%20Neverember)  (paid them 300GP each) who asked them to investigate the cult**
+- **Spoke with Lord Neverember  (paid them 300GP each) who asked them to investigate the cult**
 
 - **Spoke with [[Kevori]] (joined the party for the mission)**
 
