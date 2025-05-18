@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC's/Roman.md",
+                "file": "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roman"
+              "title": "Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE"
             }
           }
         ]
@@ -179,12 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a8ff249069283ef",
+  "active": "1ad785a40673ed47",
   "lastOpenFiles": [
-    "README.md",
-    "PC's/LightningNuts.md",
-    "NPC's/Lord Neverember.md",
+    "().md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
+    "NPC's/Lord Neverember.md",
+    "README.md",
+    "IMAGES/00 - Lord Neverember.webp",
+    "PC's/Roman.md",
+    "PC's/LightningNuts.md",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "NPC's/Filomena.md",
@@ -207,8 +210,6 @@
     "NPC's/Vecna.md",
     "LOCATIONS/Material Plane/Oerth/Oerth.md",
     "LOCATIONS/Shadowfell/Evernight.md",
-    "LOCATIONS/Material Plane/Faerun/Chasm District.md",
-    "LOCATIONS/Material Plane/Faerun/First Crow Inn.md",
     "IMAGES/15 - Sena.png",
     "IMAGES/12 - evernight.png",
     "IMAGES/hawk.jpeg",
@@ -218,7 +219,6 @@
     "IMAGES/roman.jpeg",
     "IMAGES/khoaz.jpeg",
     "IMAGES/Vecna cult symbol.png",
-    "IMAGES/13.5 - Evernight Streets.jpg",
     "IMAGES",
     "LOCATIONS/Shadowfell",
     "LOCATIONS/Material Plane/Oerth",
