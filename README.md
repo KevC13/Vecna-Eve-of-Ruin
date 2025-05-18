@@ -3,7 +3,7 @@
 
 These are the campaign notes for our play through of the Vecna Eve of Ruin module.
 
-###[CHAPTERS](CHAPTERS)
+**CHAPTERS**
 
 [Chapter 1 - Part 1 - Nest of the Eldritch Eye](CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md)
 
