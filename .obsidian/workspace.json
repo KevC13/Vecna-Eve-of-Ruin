@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
+                "file": "PC's/Roman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE"
+              "title": "Roman"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapters/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
+                "file": "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD"
+              "title": "Outgoing links from Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapters/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
+                "file": "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD"
+              "title": "Outline of Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64fa8821f51b1c71",
+  "active": "1ad785a40673ed47",
   "lastOpenFiles": [
+    "PC's/LightningNuts.md",
+    "NPC's/Lord Neverember.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
+    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
+    "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
+    "NPC's/Filomena.md",
+    "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
+    "PC's/Seraphine.md",
+    "NPC's/Kevori.md",
     "dnd @ the lab.md",
     "LightningNuts-vs-Vecna/LICENSE",
     "LightningNuts-vs-Vecna/README.md",
@@ -190,25 +198,17 @@
     "NPC's/Minor NPC's/Sena.md",
     "LOCATIONS/Shadowfell/Smoldering Corpse Tavern.md",
     "PC's/Hawk.md",
-    "PC's/LightningNuts.md",
     "NPC's/Minor NPC's/Eldon Keyward.md",
-    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "PC's/Khoaz.md",
     "NPC's/Minor NPC's/Umberto Noblin.md",
-    "NPC's/Filomena.md",
     "NPC's/Kas.md",
-    "NPC's/Kevori.md",
-    "NPC's/Lord Neverember.md",
     "NPC's/Skaarz Tarturus.md",
     "NPC's/Vecna.md",
     "LOCATIONS/Material Plane/Oerth/Oerth.md",
     "LOCATIONS/Shadowfell/Evernight.md",
     "LOCATIONS/Material Plane/Faerun/Chasm District.md",
     "LOCATIONS/Material Plane/Faerun/First Crow Inn.md",
-    "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
     "NPC's/Minor NPC's/Sangora.md",
-    "LOCATIONS/Shadowfell/Corpse Market.md",
-    "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "IMAGES/15 - Sena.png",
     "IMAGES/12 - evernight.png",
     "IMAGES/hawk.jpeg",
