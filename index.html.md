@@ -15,14 +15,14 @@
   <ul>
     <li class="folder">CHAPTERS
       <ul>
-        <li class="file"><a href="obsidian://open?vault=Vecna%20Eve%20of%20Ruin&file=CHAPTERS%2FChapter%201%20-%20Part%201%20-%20NEST%20OF%20THE%20ELDRITCH%20EYE">CHAPTER 1 - Part 1</a></li>
-        <li class="file"><a href="obsidian://open?vault=Vecna%20Eve%20of%20Ruin&file=CHAPTERS%2FChapter%201%20-%20Part%202%20-%20NEVERDEATH%20GRAVEYARD">CHAPTER 1 - Part 2</a></li>
-        <li class="file"><a href = "obsidian://open?vault=Vecna%20Eve%20of%20Ruin&file=CHAPTERS%2FChapter%201%20-%20Part%203%20-%20ESCAPE%20FROM%20EVERNIGHT">CHAPTER 1 - Part 3</a></li>
+        <li class="file"><a href="CHAPTER 1 - Part 1 - NEST OF THE ELDRITCH EYE.md">CHAPTER 1 - Part 1</a></li>
+        <li class="file"><a href="CHAPTER 1 - Part 2 - NEVERDEATH GRAVEYARD.md">CHAPTER 1 - Part 2</a></li>
+        <li class="file"><a href = "CHAPTER 1 - Part 3 - ESCAPE FROM EVERNIGHT.md">CHAPTER 1 - Part 3</a></li>
       </ul>
     </li>
     <li class="folder">PC's
       <ul>
-        <li class="file"><a href="obsidian://open?vault=Vecna%20Eve%20of%20Ruin&file=PC's%2FHawk">Hawk</a></li>
+        <li class="file"><a href="Hawk.md">Hawk</a></li>
       </ul>
     </li>
   </ul>
