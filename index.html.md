@@ -15,7 +15,7 @@
   <ul>
     <li class="folder">CHAPTERS
       <ul>
-        <li class="file"><a href="CHAPTER 1 - Part 1 - NEST OF THE ELDRITCH EYE.md">CHAPTER 1 - Part 1</a></li>
+        <li class="file"><a href="CHAPTERS/CHAPTER 1 - Part 1 - NEST OF THE ELDRITCH EYE.md">CHAPTER 1 - Part 1</a></li>
         <li class="file"><a href="CHAPTER 1 - Part 2 - NEVERDEATH GRAVEYARD.md">CHAPTER 1 - Part 2</a></li>
         <li class="file"><a href = "CHAPTER 1 - Part 3 - ESCAPE FROM EVERNIGHT.md">CHAPTER 1 - Part 3</a></li>
       </ul>
