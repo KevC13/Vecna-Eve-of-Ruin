@@ -1,3 +1,4 @@
+# Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE
 ## MAGIC ITEMS FOUND
 - [Shield of Missile Attraction](https://www.dndbeyond.com/magic-items/9814085-shield-of-missile-attraction-uncursed)
 - [Bag of Holding](https://www.dndbeyond.com/magic-items/9228356-bag-of-holding)
