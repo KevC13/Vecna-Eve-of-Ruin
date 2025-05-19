@@ -5,13 +5,13 @@
 - Scroll of [Protection from Good and Evil](https://www.dndbeyond.com/spells/2618912-protection-from-evil-and-good)
 
 ## MAJOR PLOT POINTS
-1. **Spoke with Lord Neverember  (paid them 300GP each) who asked them to investigate the cult**
+1. **Spoke with [Lord Neverember](NPC'S/Lord Neverember.md)  (paid them 300GP each) who asked them to investigate the cult**
 
  2.  **Spoke with [[Kevori]] (joined the party for the mission)**
 
 3.  **Inspected the body and determined the man died by unknown magical means**
 
-4.  **[[Hawk]] stuck the eye in her socket - activated the eye. The eye then became a compass pointing towards the cult hideout in the [[Chasm District]]**
+4.  **[Hawk](PC's/hawk.md) stuck the eye in her socket - activated the eye. The eye then became a compass pointing towards the cult hideout in the [[Chasm District]]**
 	- **[[Hawk]] later removed the eye to open the cult hideout door**
 
 5.  **The [[LightningNuts]] then followed the eye/compass to a network of catacombs and eventually unlocked the cult hideout.**

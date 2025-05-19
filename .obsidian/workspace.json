@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC's/Hawk.md",
+                "file": "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hawk"
+              "title": "Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE"
             }
           },
           {
@@ -193,15 +193,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64fa8821f51b1c71",
+  "active": "1ad785a40673ed47",
   "lastOpenFiles": [
-    "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
-    "PC's/Hawk.md",
+    "NPC's/Lord Neverember.md",
     "index.html.md",
+    "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
+    "NPC's/Kevori.md",
+    "PC's/Hawk.md",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "2025-05-19.md",
-    "NPC's/Lord Neverember.md",
     "README.md",
     "().md",
     "IMAGES/00 - Lord Neverember.webp",
@@ -210,7 +211,6 @@
     "NPC's/Filomena.md",
     "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
     "PC's/Seraphine.md",
-    "NPC's/Kevori.md",
     "dnd @ the lab.md",
     "LightningNuts-vs-Vecna/LICENSE",
     "LightningNuts-vs-Vecna/README.md",
