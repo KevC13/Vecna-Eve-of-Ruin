@@ -1,4 +1,5 @@
+# Neverwinter
 Location: Sword Coast, Material Plane, Faerun
 
 Map: 
-![[../../../IMAGES/NeverwinterMapLabels.jpg]]
+![NeverwinterMapLabels](<../../../IMAGES/NeverwinterMapLabels.jpg>)

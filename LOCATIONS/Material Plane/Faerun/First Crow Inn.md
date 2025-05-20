@@ -1,5 +1,6 @@
-Description: Modest Inn located in the [[./Chasm District]] in the city of [[./Neverwinter]]
+# First Crow Inn
+Description: Modest Inn located in the [Chasm District](<./Chasm District.md>) in the city of [Neverwinter](<./Neverwinter.md>)
 
 Notes:
-- [[../../../NPC's/Skaarz Tarturus]] rented a room there
-- [[../../../PC's/Wrick]] met [[../../../NPC's/Filomena]] there. 
+- [Skaarz Tarturus](<../../../NPC's/Skaarz Tarturus.md>) rented a room there
+- [Wrick](<../../../PC's/Wrick.md>) met [Filomena](<../../../NPC's/Filomena.md>) there. 

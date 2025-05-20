@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
+                "file": "LOCATIONS/Shadowfell/Temple of Filth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
+              "title": "Temple of Filth"
             }
           },
           {
@@ -195,11 +195,18 @@
   },
   "active": "1ad785a40673ed47",
   "lastOpenFiles": [
+    "LOCATIONS/Shadowfell/Smoldering Corpse Tavern.md",
+    "LOCATIONS/Shadowfell/Shadowfell.md",
+    "LOCATIONS/Shadowfell/Evernight.md",
+    "LOCATIONS/Shadowfell/Corpse Market.md",
+    "LOCATIONS/Material Plane/Oerth/Oerth.md",
+    "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
+    "LOCATIONS/Material Plane/Faerun/First Crow Inn.md",
+    "LOCATIONS/Material Plane/Faerun/Chasm District.md",
+    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
-    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "NPC's/Skaarz Tarturus.md",
-    "LOCATIONS/Material Plane/Faerun/Chasm District.md",
     "NPC's/Lord.md",
     "NPC'S/Lord.md",
     "NPC's/Lord Neverember.md",
@@ -215,16 +222,9 @@
     "PC's/Roman.md",
     "PC's/LightningNuts.md",
     "NPC's/Filomena.md",
-    "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
     "PC's/Seraphine.md",
-    "dnd @ the lab.md",
     "LightningNuts-vs-Vecna/LICENSE",
-    "LightningNuts-vs-Vecna/README.md",
     "LightningNuts-vs-Vecna",
-    "LOCATIONS/Shadowfell/Temple of Filth.md",
-    "NPC's/Minor NPC's/Sena.md",
-    "LOCATIONS/Shadowfell/Smoldering Corpse Tavern.md",
-    "NPC's/Minor NPC's/Eldon Keyward.md",
     "IMAGES/15 - Sena.png",
     "IMAGES/12 - evernight.png",
     "IMAGES/hawk.jpeg",
