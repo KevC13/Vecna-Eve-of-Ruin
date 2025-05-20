@@ -7,10 +7,10 @@
 1. **The [LightningNuts](<../PC's/LightningNuts.md>) brought news of what they learned about the cult to [Lord Neverember](<../NPC's/Lord Neverember.md>), including the names of the cult targets**
 
 2. **[Lord Neverember](<../NPC's/Lord Neverember.md>) acknowledged that 4 of the 5 targets are prominent citizens of the city, but [Skaarz Tarturus](<../NPC's/Skaarz Tarturus.md>) was unknown.**
-	- **[Eldon Keyward](<../NPC's/Minor NPC's/Eldon Keyward.md>)****: male elf, highly knowledgeable scholar who specializes in the Outer Planes.**
-	- **[Indrina Lamsensettle](<../NPC's/Minor NPC's/Indrina Lamsensettle.md>)****: female human, actor who moves in Neverwinter’s highest social circles.**
-	- **[Sarcelle Malinosh](<../NPC's/Minor NPC's/Sarcelle Malinosh.md>)****: female human, wild magic sorcerer who plumbs the mysteries of the Outer Planes.**
-	- **[Umberto Noblin](<../NPC's/Minor NPC's/Umberto Noblin.md>)****: gnome male, historian who has written books on various deities.**
+	- **[Eldon Keyward](<../NPC's/Minor NPC's/Eldon Keyward.md>): male elf, highly knowledgeable scholar who specializes in the Outer Planes.**
+	- **[Indrina Lamsensettle](<../NPC's/Minor NPC's/Indrina Lamsensettle.md>): female human, actor who moves in Neverwinter’s highest social circles.**
+	- **[Sarcelle Malinosh](<../NPC's/Minor NPC's/Sarcelle Malinosh.md>): female human, wild magic sorcerer who plumbs the mysteries of the Outer Planes.**
+	- **[Umberto Noblin](<../NPC's/Minor NPC's/Umberto Noblin.md>): gnome male, historian who has written books on various deities.**
 
 3. **[Lord Neverember](<../NPC's/Lord Neverember.md>) then asked the party to return in two days to give his people time to look into the whereabout of the targets**
 	- **Discovered they were all missing**
