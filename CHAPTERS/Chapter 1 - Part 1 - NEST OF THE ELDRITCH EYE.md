@@ -7,7 +7,7 @@
 ## MAJOR PLOT POINTS
 1. **Spoke with [Lord Neverember](<../NPC's/Lord Neverember.md>)  (paid them 300GP each) who asked them to investigate the cult**
 
- 2.  **Spoke with [Kevori](<../NPC's/Kevori.md>) (joined the party for the mission)**
+ 2.  **Spoke with [Kevori](<../NPC's/Minor NPC's/Kevori.md>) (joined the party for the mission)**
 
 3.  **Inspected the body and determined the man died by unknown magical means**
 

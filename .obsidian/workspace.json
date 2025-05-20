@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
+                "file": "NPC's/Vecna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD"
+              "title": "Vecna"
             }
           }
         ]
@@ -181,9 +181,12 @@
   },
   "active": "1ad785a40673ed47",
   "lastOpenFiles": [
+    "NPC's/Skaarz Tarturus.md",
+    "NPC's/Lord Neverember.md",
+    "NPC's/Minor NPC's/Kevori.md",
+    "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
     "NPC's/Kas.md",
-    "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "NPC's/Filomena.md",
     "PC's/Seraphine.md",
     "PC's/Wrick.md",
@@ -199,15 +202,12 @@
     "LOCATIONS/Material Plane/Faerun/First Crow Inn.md",
     "LOCATIONS/Material Plane/Faerun/Chasm District.md",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
-    "NPC's/Skaarz Tarturus.md",
     "NPC's/Lord.md",
     "NPC'S/Lord.md",
-    "NPC's/Lord Neverember.md",
     "PC's/Hawk.md",
     "conflict-files-obsidian-git.md",
     "index.html",
     "index.html.md",
-    "NPC's/Kevori.md",
     "IMAGES/00 - Lord Neverember.webp",
     "LightningNuts-vs-Vecna/LICENSE",
     "LightningNuts-vs-Vecna",

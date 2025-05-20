@@ -1,4 +1,4 @@
-Role: Investigator for [[./Lord Neverember]]
+Role: Investigator for [Lord Neverember](<../Lord Neverember.md>)
 
 Description: Human Female Scout
 
@@ -8,4 +8,4 @@ Notes:
 - Joined the party when exploring the cult hideout located in the Chasm District of Neverwinter
 
 Image: 
-![[../IMAGES/00- Kevori thumbnail.jpg]]
+![00- Kevori thumbnail](<../../IMAGES/00- Kevori thumbnail.jpg>)
