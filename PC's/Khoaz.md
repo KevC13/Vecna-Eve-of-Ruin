@@ -5,4 +5,4 @@ Species: Dragonborn
 Class: Ranger (Monster Slayer)
 
 Image: 
-![[khoaz.jpeg]]
+![[../IMAGES/khoaz.jpeg]]

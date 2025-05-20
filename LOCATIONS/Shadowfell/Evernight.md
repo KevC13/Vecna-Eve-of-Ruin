@@ -1,16 +1,16 @@
-Location: [[Shadowfell]]
+Location: [[./Shadowfell]]
 
-Description: Dark mirror of [[Neverwinter]].
+Description: Dark mirror of [[../Material Plane/Faerun/Neverwinter]].
 	- City of the undead
 	- Led by the "Tribunal" and ruling council of intelligent Ghouls
 
 Key Places:
-- [[Smoldering Corpse Tavern]]
-- [[Corpse Market]]
-- [[Temple of Filth]]
+- [[./Smoldering Corpse Tavern]]
+- [[./Corpse Market]]
+- [[./Temple of Filth]]
 
 Map and Images:
-![[evernight.webp]]
-![[12 - evernight.png]]
+![[../../IMAGES/evernight.webp]]
+![[../../IMAGES/12 - evernight.png]]
 
-![[13.5 - Evernight Streets.jpg]]
+![[../../IMAGES/13.5 - Evernight Streets.jpg]]

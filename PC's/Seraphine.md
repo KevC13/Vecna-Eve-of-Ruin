@@ -5,4 +5,4 @@ Species: Aasimar
 Class: Cleric (Love Domain)
 
 Image: 
-![[seraphine NEW.jpg]]
+![[../IMAGES/seraphine NEW.jpg]]

@@ -22,21 +22,6 @@
             }
           },
           {
-            "id": "da7178ca668dc0a2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "index.html",
-                "bFile": "index.html",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: index.html"
-            }
-          },
-          {
             "id": "0f8891d15ac24df6",
             "type": "leaf",
             "state": {
@@ -50,8 +35,7 @@
               "title": "Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,15 +193,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da7178ca668dc0a2",
+  "active": "1ad785a40673ed47",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "LOCATIONS/Material Plane/Faerun/Chasm District.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
+    "NPC's/Lord.md",
+    "NPC'S/Lord.md",
+    "NPC's/Lord Neverember.md",
+    "PC's/Hawk.md",
+    "conflict-files-obsidian-git.md",
     "index.html",
     "index.html.md",
-    "NPC's/Lord Neverember.md",
     "NPC's/Kevori.md",
-    "PC's/Hawk.md",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "2025-05-19.md",
@@ -238,9 +225,6 @@
     "LOCATIONS/Shadowfell/Smoldering Corpse Tavern.md",
     "NPC's/Minor NPC's/Eldon Keyward.md",
     "PC's/Khoaz.md",
-    "NPC's/Minor NPC's/Umberto Noblin.md",
-    "NPC's/Kas.md",
-    "NPC's/Skaarz Tarturus.md",
     "IMAGES/15 - Sena.png",
     "IMAGES/12 - evernight.png",
     "IMAGES/hawk.jpeg",
