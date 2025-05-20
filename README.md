@@ -9,5 +9,5 @@ These are the campaign notes for our play through of the Vecna Eve of Ruin modul
 
 [Chapter 1 - Part 2 - Neverdeath Graveyard](<./CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md>)
 
-[Chapter 1 - Part 3 - Escape From Evernight](..<CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md>)
+[Chapter 1 - Part 3 - Escape From Evernight](<./CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md>)
 
