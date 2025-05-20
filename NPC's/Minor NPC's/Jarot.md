@@ -3,11 +3,11 @@ Role: Cult Leader: "Thought of Vecna"
 Description: Gaunt Human Male Necromancer
 
 Notes:
-- Leader of the [[../Vecna]] cults in [[../../LOCATIONS/Material Plane/Faerun/Neverwinter]]
-- Was responsible for kidnapping [[./Eldon Keyward]], [[./Sarcelle Malinosh]], [[./Umberto Noblin]], [[./Indrina Lamsensettle]], and [[../Skaarz Tarturus]].
-- Performed the siphon secrets ritual on [[../Skaarz Tarturus]].
-- Was unapologetic when confronted by the [[../../PC's/LightningNuts]].
-- Killed by [[../../PC's/Khoaz]]. (stabbed through the eye with an arrow)
+- Leader of the [Vecna](<../Vecna.md>) cults in [Neverwinter](<../../LOCATIONS/Material Plane/Faerun/Neverwinter.md>)
+- Was responsible for kidnapping [Eldon Keyward](<./Eldon Keyward.md>), [Sarcelle Malinosh](<./Sarcelle Malinosh.md>), [Umberto Noblin](<./Umberto Noblin.md>), [Indrina Lamsensettle](<./Indrina Lamsensettle.md>), and [Skaarz Tarturus](<../Skaarz Tarturus.md>).
+- Performed the siphon secrets ritual on [Skaarz Tarturus](<../Skaarz Tarturus.md>).
+- Was unapologetic when confronted by the [LightningNuts](<../../PC's/LightningNuts.md>).
+- Killed by [Khoaz](<../../PC's/Khoaz.md>). (stabbed through the eye with an arrow)
 
 Image: 
-![[../../IMAGES/10 - Jerot Galgin.png]]
+![10 - Jerot Galgin](<../../IMAGES/10 - Jerot Galgin.png>)
