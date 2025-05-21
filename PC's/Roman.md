@@ -5,4 +5,4 @@ Species: Tabaxi
 Class: Barbarian (Path of the Beast)
 
 Image: 
-![[../IMAGES/roman.jpeg]]
+![roman](<../IMAGES/roman.jpeg>)

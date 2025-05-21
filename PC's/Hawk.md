@@ -5,4 +5,4 @@ Species: Human
 Class: Druid (Circle of the Land)
 
 Image: 
-![[../IMAGES/hawk.jpeg]]
+![hawk](<../IMAGES/hawk.jpeg>)
