@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "72f20bc32b39a615",
   "lastOpenFiles": [
+    "index.md",
     "PC's/LightningNuts.md",
     "PC's/Seraphine.md",
     "PC's/Roman.md",
@@ -222,7 +223,6 @@
     "LOCATIONS/Shadowfell/Shadowfell.md",
     "LOCATIONS/Shadowfell/Evernight.md",
     "LOCATIONS/Shadowfell/Corpse Market.md",
-    "LOCATIONS/Material Plane/Oerth/Oerth.md",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
     "SECRETS LEARNED",

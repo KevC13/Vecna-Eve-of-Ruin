@@ -24,8 +24,11 @@
 			- **She did not know any "Crevices of Dusk" locations, as those are rare and typically safely guarded secrets, but a merchant vampire called [Sangora](<../NPC's/Minor NPC's/Sangora.md>) operates out of the [Corpse Market](<../LOCATIONS/Shadowfell/Corpse Market.md>) to the southeast, and she deals in information as well as blood.**
 		- **Having learned what they could the [LightningNuts](<../PC's/LightningNuts.md>) went to sleep, and in the morning departed for the [Corpse Market](<../LOCATIONS/Shadowfell/Corpse Market.md>).**
 			- **As they were saying their goodbyes to [Sena](<../NPC's/Minor NPC's/Sena.md>), [Wrick](<../PC's/Wrick.md>) snuck into her room and discovered and stole a pair of [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin), and was able to sneak out without being caught.**
-5.  **The [LightningNuts](<../PC's/LightningNuts.md>) arrived at the corpse market to find vendors hocking a variety of strange wares; dead flowers, body parts, warm blood, old jewelry, and more.**
-	- [Roman](<../PC's/Roman.md>) loved the atmosphere of the market, deciding to partake in some bat wings, buyin a jar of brains, and a cheap gold-ish collar.
+5.  **The [LightningNuts](<../PC's/LightningNuts.md>) arrived at the [Corpse Market](<../LOCATIONS/Shadowfell/Corpse Market.html>) to find vendors hocking a variety of strange wares; dead flowers, body parts, warm blood, old jewelry, and more.**
+	- [Roman](<../PC's/Roman.md>) loved the atmosphere of the market, deciding to partake in some bat wings, buying a jar of brains, and a cheap gold-ish collar.
 	- [Hawk](<../PC's/Hawk.md>) as well appreciated the strange items for sale, buying some dried lavender for [Seraphine](<../PC's/Seraphine.md>), some dried sage for herself, and even buying an undead servant zombie. 
+	- [Wrick](<../PC's/Wrick.html>), however, was focused entirely on getting the hell out of the dangerous citry of the undead, and went to seek out [Sangora](<../NPC's/Minor NPC's/Sangora.html>). 
+		- He soon found her at a shop on the edge of the [Corpse Market](<../LOCATIONS/Shadowfell/Corpse Market.html>) called Sangora's Sanguinaries, and cutting to the chase inquired about information regarding her knowledge of "crevices".
+		- [Sangora](<../NPC's/Minor NPC's/Sangora.html>) told him that the information regarding a portal out of the city would cost 500gp or a bottle of [Seraphine's](<../PC's/Seraphine.html>) blood. 
 
 [BACK](https://kevc13.github.io/Vecna-Eve-of-Ruin/)
