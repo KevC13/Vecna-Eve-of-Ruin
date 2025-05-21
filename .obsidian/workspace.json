@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
+                "file": "PC's/Khoaz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD"
+              "title": "Khoaz"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
+                "file": "PC's/Khoaz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD"
+              "title": "Outline of Khoaz"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "72f20bc32b39a615",
   "lastOpenFiles": [
+    "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "PC's/Wrick.md",
@@ -207,7 +208,6 @@
     "PC's/LightningNuts.md",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "_config.yml",
-    "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "README.md",
     "NPC's/Minor NPC's/Umberto Noblin.md",
     "NPC's/Minor NPC's/Sena.md",
