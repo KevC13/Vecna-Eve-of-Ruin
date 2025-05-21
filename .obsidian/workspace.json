@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
+                "file": "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
+              "title": "Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
+                "file": "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
+              "title": "Outline of Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE"
             }
           },
           {
@@ -196,6 +196,9 @@
   },
   "active": "72f20bc32b39a615",
   "lastOpenFiles": [
+    "NPC's/Filomena.md",
+    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
+    "index.md",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
     "README.md",
@@ -209,7 +212,6 @@
     "PC's/Roman.md",
     "PC's/Hawk.md",
     "PC's/LightningNuts.md",
-    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "_config.yml",
     "NPC's/Minor NPC's/Umberto Noblin.md",
     "NPC's/Minor NPC's/Sena.md",
@@ -224,7 +226,6 @@
     "NPC's/Skaarz Tarturus.md",
     "NPC's/Lord Neverember.md",
     "NPC's/Minor NPC's/Kevori.md",
-    "NPC's/Kas.md",
     "index.html",
     "IMAGES/00 - Lord Neverember.webp",
     "LightningNuts-vs-Vecna/LICENSE",

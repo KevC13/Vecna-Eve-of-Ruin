@@ -5,7 +5,7 @@
 - Scroll of [Protection from Good and Evil](https://www.dndbeyond.com/spells/2618912-protection-from-evil-and-good)
 
 ## MAJOR PLOT POINTS
-1. **Spoke with [Lord Neverember](<../NPC's/Lord Neverember.md>)  (paid them 300GP each) who asked them to investigate the cult**
+1. **Spoke with [Lord Neverember](<../NPC's/Lord Neverember.html>)  (paid them 300GP each) who asked them to investigate the cult**
 
  2.  **Spoke with [Kevori](<../NPC's/Minor NPC's/Kevori.md>) (joined the party for the mission)**
 
