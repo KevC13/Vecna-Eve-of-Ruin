@@ -37,7 +37,15 @@
 	- **Entering the Dolindar tomb, the [LightningNuts](<../PC's/LightningNuts.html>) encountered a friendly and enthusiastic ghost [Newmy](<../NPC's/Minor NPC's/Newmy.html>) who was paid to keep the tomb clean for centuries. She enjoyed the work so much that she decided to keep cleaning even after her death.**
 	- **[Newmy](<../NPC's/Minor NPC's/Newmy.html>) informed the [LightningNuts](<../../PC's/LightningNuts.html>) that the Dolindar's were exiled and trapped in [Evernight](<../../LOCATIONS/Shadowfell/Evernight.html>) and in their exile became extremely lonely, and eventually turned into sad and frightening monsters.**
 	- **Exploring further the [LightningNuts](<../PC's/LightningNuts.html>) encountered two of the Dolindar's, now transformed into hideous monsters, called sorrowsworn, and [Roman](<../PC's/Roman.html>) soon found himself grappled and pierced by their blade-like arms, taking psychic damage from contact with the despair laden creatures. Rallying the [LightningNuts](<../PC's/LightningNuts.html>) were able to vanquish the monsters.**
-	- **In the adjoining rooms, the [LightningNuts](<../PC's/LightningNuts.html>) found a door locked by a word puzzle and a room filled with various treasure items. 
-		- 
+	- **In the adjoining rooms, the [LightningNuts](<../PC's/LightningNuts.html>) found a door locked by a word puzzle and a room filled with various treasure items.**
+		- [Wrick](<../PC's/Wrick.html>) quickly stashed a pile of 2,200GP.
+		- [Seraphine](<../PC's/Seraphine.html>) took a small snow globe with an intricate model of [Neverwinter](<../LOCATIONS/Material Plane/Faerun/Neverwinter.html>) inside (worth 350GP).
+		- [Roman](<../PC's/Roman.html>) took an adorned a golden helmet (worth 280GP) along with a [driftglobe](https://www.dndbeyond.com/magic-items/9228521-driftglobe) that has a map of the gate towns of the Outlands carved on it.
+		- [Hawk](<../PC's/Hawk.html>) snagged a [necklace of adaptation](https://www.dndbeyond.com/magic-items/4682-necklace-of-adaptation).
+		- [Khoaz](<../PC's/Khoaz.html>) took a book titled _Out of the Endless Prison_, outlining methods of escaping the prison-plane of [Carceri](https://forgottenrealms.fandom.com/wiki/Carceri) (worth 500GP) which [Eldon](<../NPC's/Minor NPC's/Eldon Keyward.html>) eagerly wants to buy when they return to [Neverwinter](<../LOCATIONS/Material Plane/Faerun/Neverwinter.html>).
+	- **Moving on to study the puzzle, [Wrick](<../PC's/Wrick.html>), along with clues discovered by [Hawk](<../PC's/Hawk.html>) about the Dolindar's, determined that pressing the letters in each word that spell out ALONE would open the door.**
+	- **Beyond the door they found the Dolindar matriarch, also transformed into a monstrous sorrowsworn.** 
+	- **Vanquishing her, they discovered a portal inside her coffin and jumping through were teleported back to [Neverwinter](<../LOCATIONS/Material Plane/Faerun/Neverwinter.html>). **
+	- **During their travel through the portal the [LightningNuts](<../PC's/LightningNuts.html>) saw another vision, this time of [Vecna's](<../NPC's/Vecna.html>) rise to power, along with [Kas](<../NPC's/Kas.html>). The vision followed the history that [Umberto Noblin](<../NPC's/Minor NPC's/Umberto Noblin.html>) outlined, but this time the [LightningNuts](<../PC's/LightningNuts.html>) not only saw [Vecna's](<../NPC's/Vecna.html>) rise to power with their own eyes, but also felt his insatiable hunger for power. 
 
 [BACK](https://kevc13.github.io/Vecna-Eve-of-Ruin/)
