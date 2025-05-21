@@ -36,3 +36,5 @@
 10.  **[Seraphine](<../PC's/Seraphine.md>) and [Hawk](<../PC's/Hawk.md>) determined that the victim of the ritual to siphon secrets, [Raina](<../NPC's/Minor NPC's/Raina.md>), has been drained and turned undead. Only a spell of "[True Resurrection](https://www.dndbeyond.com/spells/2619199-true-resurrection)" can restore her.**
 
 11.  **The [LightningNuts](<../PC's/LightningNuts.md>) brought [Raina](<../NPC's/Minor NPC's/Raina.md>) with them to [Lord Neverember](<../NPC's/Lord Neverember.md>) who took her in and will have his servants look after her.**
+
+[BACK](https://kevc13.github.io/Vecna-Eve-of-Ruin/)

@@ -71,3 +71,5 @@
 		- **They were joined shortly by [Hawk](<../PC's/Hawk.md>) and [Wrick](<../PC's/Wrick.md>), and as the party began killing cultists, the ritual circle began to pulse erratically, until finally when the cult mage was killed it stuttered and went out.**
 	- **Moments after the ritual was disrupted, the ritual circle exploded with purplish energy and the party was sucked into a void, seeing visions of [Vecna](<../NPC's/Vecna.md>) gathering powerful secrets from a multitude of cults around the multiverse.**
 		- **This event created a link between the [LightningNuts](<../PC's/LightningNuts.md>) and [Vecna](<../NPC's/Vecna.md>) (feat gained) that gave them the power to harness the "secrets" they have heard. **
+
+[BACK](https://kevc13.github.io/Vecna-Eve-of-Ruin/)

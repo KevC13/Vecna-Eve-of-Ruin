@@ -27,3 +27,5 @@
 5.  **The [LightningNuts](<../PC's/LightningNuts.md>) arrived at the corpse market to find vendors hocking a variety of strange wares; dead flowers, body parts, warm blood, old jewelry, and more.**
 	- [Roman](<../PC's/Roman.md>) loved the atmosphere of the market, deciding to partake in some bat wings, buyin a jar of brains, and a cheap gold-ish collar.
 	- [Hawk](<../PC's/Hawk.md>) as well appreciated the strange items for sale, buying some dried lavender for [Seraphine](<../PC's/Seraphine.md>), some dried sage for herself, and even buying an undead servant zombie. 
+
+[BACK](https://kevc13.github.io/Vecna-Eve-of-Ruin/)
