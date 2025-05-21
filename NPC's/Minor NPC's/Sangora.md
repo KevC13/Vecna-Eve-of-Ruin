@@ -1,3 +1,4 @@
+# Sangora
 Description: A merchant vampire who operates in the [Corpse Market](<../../LOCATIONS/Shadowfell/Corpse Market.html>) of [Evernight](<../../LOCATIONS/Shadowfell/Evernight.html>).
 
 Notes:

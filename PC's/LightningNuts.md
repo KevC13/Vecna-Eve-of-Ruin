@@ -1,4 +1,4 @@
-Team of Adventures comprised of [Hawk](<./Hawk.md>), [Khoaz](<./Khoaz.md>), [Roman](<./Roman.md>), [Seraphine](<./Seraphine.md>) and [Wrick](<./Wrick.md>). 
+Team of Adventures comprised of [Hawk](<./Hawk.html>), [Khoaz](<./Khoaz.html>), [Roman](<./Roman.html>), [Seraphine](<./Seraphine.html>) and [Wrick](<./Wrick.html>). 
 
 
 ![party copy](<../IMAGES/party copy.jpg>)
