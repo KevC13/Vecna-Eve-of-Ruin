@@ -19,7 +19,7 @@
 		- **The owner/bartender [Sena](<../NPC's/Minor NPC's/Sena.md>) served them drinks and food, and was able to offer room for the night.** 
 		- **From [Sena](<../NPC's/Minor NPC's/Sena.md>) they learned that;**
 			- **Church to the west was known as the [Temple of Filth](<../LOCATIONS/Shadowfell/Temple of Filth.md>) and should be avoided, if "you value your lives"**
-			- **The city of [Evernight](<../LOCATIONS/Shadowfell/Evernight.md>) is run be a ruling council of intelligent ghouls known as the Tribunal.**
+			- **The city of [Evernight](<../LOCATIONS/Shadowfell/Evernight.md>) is run by a ruling council of intelligent ghouls known as the Tribunal.**
 			- **Most of the undead will leave the [LightningNuts](<../PC's/LightningNuts.md>) alone, assuming they are under the protection of the Tribunal, but if the [LightningNuts](<../PC's/LightningNuts.md>) cause trouble that protection will not matter.**
 			- **She did not know any "Crevices of Dusk" locations, as those are rare and typically safely guarded secrets, but a merchant vampire called [Sangora](<../NPC's/Minor NPC's/Sangora.md>) operates out of the [Corpse Market](<../LOCATIONS/Shadowfell/Corpse Market.md>) to the southeast, and she deals in information as well as blood.**
 		- **Having learned what they could the [LightningNuts](<../PC's/LightningNuts.md>) went to sleep, and in the morning departed for the [Corpse Market](<../LOCATIONS/Shadowfell/Corpse Market.md>).**
@@ -32,7 +32,7 @@
 		- [Sangora](<../NPC's/Minor NPC's/Sangora.html>) told him that the information regarding a portal out of the city would cost 500gp or a bottle of [Seraphine's](<../PC's/Seraphine.html>) blood. 
 		- Willing to take one for the team, [Seraphine](<../PC's/Seraphine.html>) agreed to offer up her blood.
 		- True to her word, [Sangora](<../NPC's/Minor NPC's/Sangora.html>) let the party know that there was a stable portal in the tomb of the Dolindar family in [Evernight's](<../LOCATIONS/Shadowfell/Evernight.html>) graveyard.
-6. When arriving at the Dolindar tomb the [LightningNuts](<../../PC's/LightningNuts.html>), however, found that [Sangora](<../NPC's/Minor NPC's/Sangora.html>) had set up an ambush, sending a few of her vampire spawn take care of them. 
+6. When arriving at the Dolindar tomb the [LightningNuts](<../../PC's/LightningNuts.html>), however, found that [Sangora](<../NPC's/Minor NPC's/Sangora.html>) had set up an ambush, sending a few of her vampire spawn to take care of them. 
 	- Not deterred, the [LightningNuts](<../../PC's/LightningNuts.html>) easily dealt with the vampire spawn, and [Hawk](<../../PC's/Hawk.html>) sent her newly acquired zombie servant back to assassinate [Sangora](<../NPC's/Minor NPC's/Sangora.html>). (The zombie probably failed).
 	- Entering the Dolindar tomb, the [LightningNuts](<../PC's/LightningNuts.html>) encountered a friendly and enthusiastic ghost [Newmy](<../NPC's/Minor NPC's/Newmy.html>) who was paid to keep the tomb clean for centuries, even after her death. 
 
