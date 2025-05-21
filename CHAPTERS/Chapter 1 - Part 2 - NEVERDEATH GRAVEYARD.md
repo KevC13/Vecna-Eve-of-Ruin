@@ -29,7 +29,7 @@
 		- **She assumed they were cultists**
 		- **[Wrick](<../PC's/Wrick.md>) convinced her they were there to help**
 		- **She revealed that she has been have disturbing dreams of [Vecna](<../NPC's/Vecna.md>) summoning power and then releasing it in an explosive burst of energy.**
-		- **[Wrick](<../PC's/Wrick.md>), [Roman](<../PC's/Roman.md>), [Seraphine](<../PC's/Seraphine.md>), and [Hawk](<../PC's/Hawk.md>) (in spider form) all knew this was the powerful secret the cult was after.**
+		- **[Wrick](<../PC's/Wrick.md>), [Roman](<../PC's/Roman.md>), [Seraphine](<../PC's/Seraphine.md>), and [Hawk](<../PC's/Hawk.md>) (in spider form) all knew this was the powerful [secret](<../SECRETS LEARNED/SECRETS LEARNED.md>) the cult was after.**
 		- **She also revealed that her powers of sorcery were recently lost, but told [Wrick](<../PC's/Wrick.md>) "that is a story for another time"**
 		- **[Wrick](<../PC's/Wrick.md>) escorted her out of the graveyard** 
 	- **[Roman](<../PC's/Roman.md>) opened a door to a toad like creature named Shanzezim in his workshop, but realizing he wasn't a captive left him alone**
@@ -43,7 +43,7 @@
 			- **But [Kas](<../NPC's/Kas.md>), driven by the power of the sword, betrayed [Vecna](<../NPC's/Vecna.md>) and tried to destroy him, leaving behind [Vecna](<../NPC's/Vecna.md>)'s eye and hand.**
 			- **[Kas](<../NPC's/Kas.md>) was then flung across the multiverse, losing the sword and becoming trapped in the [Shadowfell](<../LOCATIONS/Shadowfell/Shadowfell.md>) world of Tovag, where the Dark Powers waited to use him for their own designs.**
 			- **[Vecna](<../NPC's/Vecna.md>), supposedly, was reborn as the god of secrets, and his cultists are gathering power for him.**
-		- **Hearing this [Wrick](<../PC's/Wrick.md>) knew this was the powerful "secret" the cult was after.**
+		- **Hearing this [Wrick](<../PC's/Wrick.md>) knew this was the powerful [secret](<../SECRETS LEARNED/SECRETS LEARNED.md>) the cult was after.**
 		- **After learning this, [Wrick](<../PC's/Wrick.md>) escorted [Umberto Noblin](<../NPC's/Minor NPC's/Umberto Noblin.md>) out of the graveyard.**
 	- **[Hawk](<../PC's/Hawk.md>), searching alone, stumbled upon several mages and cultists and was soon joined by [Khoaz](<../PC's/Khoaz.md>), [Seraphine](<../PC's/Seraphine.md>), and [Roman](<../PC's/Roman.md>). Together they wiped them out.**
 	- **After the battle, the [LightningNuts](<../PC's/LightningNuts.md>) explorer further finding more cultists, some ghouls, large demonic creatures called barlguras, and wraiths. They dealt with these as well**
@@ -53,7 +53,7 @@
 		- **[Wrick](<../PC's/Wrick.md>) soon arrived, and bringing Indrina out into cleaner air, she willingly answered any questions asked of her.** 
 		- **She was not aware of who [Vecna](<../NPC's/Vecna.md>), [Kas](<../NPC's/Kas.md>) or the cult was.**
 		- **She believed she was kidnapped due to her knowledge that [Lord Neverember](<../NPC's/Lord Neverember.md>) faked his royal lineage and has no claim to the throne**
-			- **Hearing this fact the [LightningNuts](<../PC's/LightningNuts.md>) knew this was her secret that the cult was pursuing.**
+			- **Hearing this fact the [LightningNuts](<../PC's/LightningNuts.md>) knew this was her [secret](<../SECRETS LEARNED/SECRETS LEARNED.md>) that the cult was pursuing.**
 			- **[Seraphine](<../PC's/Seraphine.md>) then escorted [Indrina Lamsensettle](<../NPC's/Minor NPC's/Indrina Lamsensettle.md>) out of the graveyard, asking Indrina about her acting career, and what happened the night she was taken.**
 	- **In need of healing, [Wrick](<../PC's/Wrick.md>) "persuaded" [Hawk](<../PC's/Hawk.md>), [Roman](<../PC's/Roman.md>), and [Khoaz](<../PC's/Khoaz.md>) to take a "catnap", and after resting the party searched further in the catacombs, looking for the last two victims.**
 	- **Khoaz soon stumbled upon the desiccated figure of his brother, [Skaarz](<../NPC's/Skaarz Tarturus.md>), now a victim of the siphon secrets ritual**
