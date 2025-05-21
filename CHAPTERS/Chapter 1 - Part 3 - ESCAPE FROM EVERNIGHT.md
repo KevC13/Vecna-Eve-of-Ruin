@@ -34,6 +34,10 @@
 		- **True to her word, [Sangora](<../NPC's/Minor NPC's/Sangora.html>) let the party know that there was a stable portal in the tomb of the Dolindar family in [Evernight's](<../LOCATIONS/Shadowfell/Evernight.html>) graveyard.**
 6. **When arriving at the Dolindar tomb the [LightningNuts](<../../PC's/LightningNuts.html>), however, found that [Sangora](<../NPC's/Minor NPC's/Sangora.html>) had set up an ambush, sending a few of her vampire spawn to take care of them.**
 	- **Not deterred, the [LightningNuts](<../../PC's/LightningNuts.html>) easily dealt with the vampire spawn, and [Hawk](<../../PC's/Hawk.html>) sent her newly acquired zombie servant back to assassinate [Sangora](<../NPC's/Minor NPC's/Sangora.html>). (The zombie probably failed).**
-	- **Entering the Dolindar tomb, the [LightningNuts](<../PC's/LightningNuts.html>) encountered a friendly and enthusiastic ghost [Newmy](<../NPC's/Minor NPC's/Newmy.html>) who was paid to keep the tomb clean for centuries, even after her death.**
+	- **Entering the Dolindar tomb, the [LightningNuts](<../PC's/LightningNuts.html>) encountered a friendly and enthusiastic ghost [Newmy](<../NPC's/Minor NPC's/Newmy.html>) who was paid to keep the tomb clean for centuries. She enjoyed the work so much that she decided to keep cleaning even after her death.**
+	- **[Newmy](<../NPC's/Minor NPC's/Newmy.html>) informed the [LightningNuts](<../../PC's/LightningNuts.html>) that the Dolindar's were exiled and trapped in [Evernight](<../../LOCATIONS/Shadowfell/Evernight.html>) and in their exile became extremely lonely, and eventually turned into sad and frightening monsters.**
+	- **Exploring further the [LightningNuts](<../PC's/LightningNuts.html>) encountered two of the Dolindar's, now transformed into hideous monsters, called sorrowsworn, and [Roman](<../PC's/Roman.html>) soon found himself grappled and pierced by their blade-like arms, taking psychic damage from contact with the despair laden creatures. Rallying the [LightningNuts](<../PC's/LightningNuts.html>) were able to vanquish the monsters.**
+	- **In the adjoining rooms, the [LightningNuts](<../PC's/LightningNuts.html>) found a door locked by a word puzzle and a room filled with various treasure items. 
+		- 
 
 [BACK](https://kevc13.github.io/Vecna-Eve-of-Ruin/)
