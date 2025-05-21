@@ -4,5 +4,5 @@ Species: Tabaxi
 
 Class: Barbarian (Path of the Beast)
 
-![](<../Sir Roman Purr.jpg>)
+![Sir Roman Purr](<../IMAGES/Sir Roman Purr.jpg>)
 ![roman](<../IMAGES/roman.jpeg>)
