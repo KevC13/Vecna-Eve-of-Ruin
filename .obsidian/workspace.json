@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
+                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD"
+              "title": "Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
+                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD"
+              "title": "Outline of Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
             }
           },
           {
@@ -196,10 +196,11 @@
   },
   "active": "72f20bc32b39a615",
   "lastOpenFiles": [
-    "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
+    "PC's/Roman.md",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
-    "NPC's/Minor NPC's/Jarot.md",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
+    "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
+    "NPC's/Minor NPC's/Jarot.md",
     "LOCATIONS/Material Plane/Faerun/Chasm District.md",
     "LOCATIONS/Shadowfell/Evernight.md",
     "NPC's/Minor NPC's/Newmy.md",
@@ -211,7 +212,6 @@
     "index.md",
     "PC's/LightningNuts.md",
     "PC's/Seraphine.md",
-    "PC's/Roman.md",
     "PC's/Khoaz.md",
     "PC's/Hawk.md",
     "NPC's/Kas.md",
