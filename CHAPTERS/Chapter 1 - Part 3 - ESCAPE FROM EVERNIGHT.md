@@ -24,4 +24,6 @@
 			- **She did not know any "Crevices of Dusk" locations, as those are rare and typically safely guarded secrets, but a merchant vampire called [Sangora](<../NPC's/Minor NPC's/Sangora.md>) operates out of the [Corpse Market](<../LOCATIONS/Shadowfell/Corpse Market.md>) to the southeast, and she deals in information as well as blood.**
 		- **Having learned what they could the [LightningNuts](<../PC's/LightningNuts.md>) went to sleep, and in the morning departed for the [Corpse Market](<../LOCATIONS/Shadowfell/Corpse Market.md>).**
 			- **As they were saying their goodbyes to [Sena](<../NPC's/Minor NPC's/Sena.md>), [Wrick](<../PC's/Wrick.md>) snuck into her room and discovered and stole a pair of [soul coins](https://www.dndbeyond.com/magic-items/842308-soul-coin), and was able to sneak out without being caught.**
-5.  **The [LightningNuts](<../PC's/LightningNuts.md>) arrived at the corpse market to find vendors hocking
+5.  **The [LightningNuts](<../PC's/LightningNuts.md>) arrived at the corpse market to find vendors hocking a variety of strange wares; dead flowers, body parts, warm blood, old jewelry, and more.**
+	- [Roman](<../PC's/Roman.md>) loved the atmosphere of the market, deciding to partake in some bat wings, buyin a jar of brains, and a cheap gold-ish collar.
+	- [Hawk](<../PC's/Hawk.md>) as well appreciated the strange items for sale, buying some dried lavender for [Seraphine](<../PC's/Seraphine.md>), some dried sage for herself, and even buying an undead servant zombie. 

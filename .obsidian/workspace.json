@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
+                "file": "PC's/LightningNuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
+              "title": "LightningNuts"
             }
           }
         ]
@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a8ff249069283ef",
+  "active": "1ad785a40673ed47",
   "lastOpenFiles": [
+    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "_config.yml",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
@@ -225,7 +226,6 @@
     "LOCATIONS/Material Plane/Oerth",
     "LOCATIONS/Material Plane",
     "LOCATIONS/Material Plane/Faerun",
-    "NPC's/Minor NPC's",
-    "CHAPTERS"
+    "NPC's/Minor NPC's"
   ]
 }
