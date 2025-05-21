@@ -15,7 +15,7 @@
 		- **With that knowledge, and in need of a long rest, the [LightningNuts](<../PC's/LightningNuts.md>) opted to visit the tavern instead.**
 	- **Travelling through [Evernight](<../LOCATIONS/Shadowfell/Evernight.md>) they found dark and rubble strewn streets, and ran into a harmless zombie carrying a basket of goods to be delivered.** 
 	- **From there the [LightningNuts](<../PC's/LightningNuts.md>) arrived at what was a warm and inviting tavern, called the [Smoldering Corpse Tavern](<../LOCATIONS/Shadowfell/Smoldering Corpse Tavern.md>).**
-		- **Inside they found a mixture of living creatures (bandits and vampire familiars), along with undead creatures (zombies, skeletons, and mummies chatting along with some intelligent ghouls playing cards and discussing politics).
+		- **Inside they found a mixture of living creatures (bandits and vampire familiars), along with undead creatures (zombies, skeletons, and mummies chatting along with some intelligent ghouls playing cards and discussing politics).**
 		- **The owner/bartender [Sena](<../NPC's/Minor NPC's/Sena.md>) served them drinks and food, and was able to offer room for the night.** 
 		- **From [Sena](<../NPC's/Minor NPC's/Sena.md>) they learned that;**
 			- **Church to the west was known as the [Temple of Filth](<../LOCATIONS/Shadowfell/Temple of Filth.md>) and should be avoided, if "you value your lives"**
@@ -30,5 +30,10 @@
 	- [Wrick](<../PC's/Wrick.html>), however, was focused entirely on getting the hell out of the dangerous citry of the undead, and went to seek out [Sangora](<../NPC's/Minor NPC's/Sangora.html>). 
 		- He soon found her at a shop on the edge of the [Corpse Market](<../LOCATIONS/Shadowfell/Corpse Market.html>) called Sangora's Sanguinaries, and cutting to the chase inquired about information regarding her knowledge of "crevices".
 		- [Sangora](<../NPC's/Minor NPC's/Sangora.html>) told him that the information regarding a portal out of the city would cost 500gp or a bottle of [Seraphine's](<../PC's/Seraphine.html>) blood. 
+		- Willing to take one for the team, [Seraphine](<../PC's/Seraphine.html>) agreed to offer up her blood.
+		- True to her word, [Sangora](<../NPC's/Minor NPC's/Sangora.html>) let the party know that there was a stable portal in the tomb of the Dolindar family in [Evernight's](<../LOCATIONS/Shadowfell/Evernight.html>) graveyard.
+6. When arriving at the Dolindar tomb the [LightningNuts](<../../PC's/LightningNuts.html>), however, found that [Sangora](<../NPC's/Minor NPC's/Sangora.html>) had set up an ambush, sending a few of her vampire spawn take care of them. 
+	- Not deterred, the [LightningNuts](<../../PC's/LightningNuts.html>) easily dealt with the vampire spawn, and [Hawk](<../../PC's/Hawk.html>) sent her newly acquired zombie servant back to assassinate [Sangora](<../NPC's/Minor NPC's/Sangora.html>). (The zombie probably failed).
+	- 
 
 [BACK](https://kevc13.github.io/Vecna-Eve-of-Ruin/)
