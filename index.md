@@ -7,7 +7,7 @@
 1. [Link to Vecna](https://www.dndbeyond.com/feats/1929620-blessing-vecnas-link)
 2. [SECRETS LEARNED](<./SECRETS LEARNED/SECRETS LEARNED.html>)
 
-## [THE LIGHTNINGNUTS](<./PC's/LightningNuts.html>)
+## THE LIGHTNINGNUTS
 1. [Hawk](<./PC's/Hawk.html>)
 2. [Khoaz](<./PC's/Khoaz.html>)
 3. [Roman](<./PC's/Roman.html>)

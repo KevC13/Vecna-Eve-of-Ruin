@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
+                "file": "NPC's/Minor NPC's/Sangora.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE"
+              "title": "Sangora"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
+                "file": "NPC's/Minor NPC's/Sangora.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE"
+              "title": "Outline of Sangora"
             }
           },
           {
@@ -196,36 +196,37 @@
   },
   "active": "72f20bc32b39a615",
   "lastOpenFiles": [
-    "index.md",
-    "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
-    "NPC's/Filomena.md",
-    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
-    "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
-    "README.md",
-    "PC's/Khoaz.md",
-    "PC's/_config.yml",
-    "CHAPTERS/_config.yml",
-    "SECRETS LEARNED/SECRETS LEARNED.md",
-    "PC's/Wrick.md",
-    "SECRETS LEARNED",
-    "PC's/Seraphine.md",
-    "PC's/Roman.md",
-    "PC's/Hawk.md",
-    "PC's/LightningNuts.md",
-    "_config.yml",
-    "NPC's/Minor NPC's/Umberto Noblin.md",
-    "NPC's/Minor NPC's/Sena.md",
-    "NPC's/Minor NPC's/Sarcelle Malinosh.md",
-    "NPC's/Minor NPC's/Sangora.md",
+    "NPC's/Minor NPC's/Kevori.md",
     "NPC's/Minor NPC's/Raina.md",
+    "NPC's/Minor NPC's/Sangora.md",
+    "IMAGES/14.5 - Sangora.png",
     "NPC's/Minor NPC's/Jarot.md",
     "NPC's/Minor NPC's/Indrina Lamsensettle.md",
     "NPC's/Minor NPC's/Eldon Keyward.md",
     "NPC's/Minor NPC's/Chanelle Hallwinter.md",
-    "NPC's/Vecna.md",
-    "NPC's/Skaarz Tarturus.md",
-    "NPC's/Lord Neverember.md",
-    "NPC's/Minor NPC's/Kevori.md",
+    "LOCATIONS/Shadowfell/Temple of Filth.md",
+    "LOCATIONS/Shadowfell/Smoldering Corpse Tavern.md",
+    "LOCATIONS/Shadowfell/Shadowfell.md",
+    "LOCATIONS/Shadowfell/Evernight.md",
+    "LOCATIONS/Shadowfell/Corpse Market.md",
+    "LOCATIONS/Material Plane/Oerth/Oerth.md",
+    "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
+    "LOCATIONS/Material Plane/Faerun/First Crow Inn.md",
+    "LOCATIONS/Material Plane/Faerun/Chasm District.md",
+    "SECRETS LEARNED/SECRETS LEARNED.md",
+    "index.md",
+    "PC's/Wrick.md",
+    "PC's/Seraphine.md",
+    "PC's/Roman.md",
+    "PC's/LightningNuts.md",
+    "PC's/Khoaz.md",
+    "PC's/Hawk.md",
+    "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
+    "NPC's/Filomena.md",
+    "PC's/_config.yml",
+    "CHAPTERS/_config.yml",
+    "SECRETS LEARNED",
+    "_config.yml",
     "index.html",
     "IMAGES/00 - Lord Neverember.webp",
     "LightningNuts-vs-Vecna/LICENSE",
@@ -238,7 +239,6 @@
     "IMAGES/seraphine NEW.jpg",
     "IMAGES/roman.jpeg",
     "IMAGES/khoaz.jpeg",
-    "IMAGES/Vecna cult symbol.png",
     "IMAGES",
     "LOCATIONS/Shadowfell",
     "LOCATIONS/Material Plane/Oerth"

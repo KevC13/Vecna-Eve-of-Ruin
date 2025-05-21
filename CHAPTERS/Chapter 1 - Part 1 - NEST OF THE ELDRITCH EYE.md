@@ -16,7 +16,7 @@
 
 5.  **The [LightningNuts](<../PC's/LightningNuts.html>) then followed the eye/compass to a network of catacombs and eventually unlocked the cult hideout.**
 
-6. **While exploring [Roman](<../PC's/Roman.html>) found a cursed [Shield of Missile Attraction](https://www.dndbeyond.com/magic-items/9814085-shield-of-missile-attraction-uncursed)  
+6. **While exploring [Roman](<../PC's/Roman.html>) found a cursed [Shield of Missile Attraction](https://www.dndbeyond.com/magic-items/9814085-shield-of-missile-attraction-uncursed)**  
 	- **The [LightningNuts](<../PC's/LightningNuts.html>) later learned the identity of a confused ghost, [Chanelle Hallwinter](<../NPC's/Minor NPC's/Chanelle Hallwinter.html>), and in gratitude she removed the curse.**
 		- **[Khoaz](<../PC's/Khoaz.html>) recognized the crest on the tomb of the Knight as the Hallwinter Family**
 		- **[Khoaz](<../PC's/Khoaz.html>) also found/opened the gold locket with Chanelle's name on it.**

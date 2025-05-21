@@ -1,4 +1,5 @@
-Role: Investigator for [Lord Neverember](<../Lord Neverember.md>)
+# Kevori
+Role: Investigator for [Lord Neverember](<../Lord Neverember.html>)
 
 Description: Human Female Scout
 
@@ -7,5 +8,5 @@ Notes:
 - Wanted vengeance for his death
 - Joined the party when exploring the cult hideout located in the Chasm District of Neverwinter
 
-Image: 
+
 ![00- Kevori thumbnail](<../../IMAGES/00- Kevori thumbnail.jpg>)

@@ -4,5 +4,5 @@ Species: Human
 
 Class: Bard (College of Dance)
 
-Image:
+
 ![wrick](<../IMAGES/wrick.jpeg>)
