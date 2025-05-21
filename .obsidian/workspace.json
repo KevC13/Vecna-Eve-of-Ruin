@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
+                "file": "PC's/Roman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
+              "title": "Roman"
             }
           }
         ],
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72f20bc32b39a615",
+  "active": "64fa8821f51b1c71",
   "lastOpenFiles": [
-    "NPC's/Minor NPC's/Newmy.md",
+    "IMAGES/Sir Roman Purr.jpg",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
+    "NPC's/Minor NPC's/Newmy.md",
     "index.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "NPC's/Kas.md",
@@ -222,7 +223,6 @@
     "PC's/LightningNuts.md",
     "PC's/Seraphine.md",
     "PC's/Khoaz.md",
-    "PC's/Hawk.md",
     "IMAGES/14.5 - Sangora.png",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
