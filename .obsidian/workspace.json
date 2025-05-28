@@ -25,14 +25,12 @@
             "id": "72f20bc32b39a615",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
-                "mode": "source",
-                "source": false
+                "file": "IMAGES/00.2 Vecna rises.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
+              "icon": "lucide-image",
+              "title": "00.2 Vecna rises"
             }
           }
         ],
@@ -194,13 +192,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72f20bc32b39a615",
+  "active": "64fa8821f51b1c71",
   "lastOpenFiles": [
+    "SECRETS LEARNED/VISIONS.md",
+    "IMAGES/00.3 Ritual of Remaking.jpg",
+    "IMAGES/00.2 Vecna rises.jpg",
+    "IMAGES/00 - sword of kas.webp",
+    "IMAGES/00.1 Acererak.jpg",
+    "IMAGES/00.0 Vecna's Tower.jpg",
     "NPC's/Alustriel Silverhand.md",
     "NPC's/Minor NPC's/Lady of the Forest.md",
-    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
+    "NPC's/Minor NPC's/Jarot.md",
+    "NPC's/Minor NPC's/Kevori.md",
     "LOCATIONS/Sigil.md",
-    "SECRETS LEARNED/VISIONS.md",
+    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "PC's/Roman.md",
     "IMAGES/Sir Roman Purr.jpg",
@@ -219,11 +224,8 @@
     "LOCATIONS/Material Plane/Faerun/Chasm District.md",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
-    "NPC's/Minor NPC's/Jarot.md",
     "IMAGES/17 - Newmy.png",
-    "NPC's/Minor NPC's/Kevori.md",
     "NPC's/Minor NPC's/Raina.md",
-    "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
     "IMAGES/14.5 - Sangora.png",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
@@ -234,11 +236,6 @@
     "LightningNuts-vs-Vecna/LICENSE",
     "LightningNuts-vs-Vecna",
     "IMAGES/15 - Sena.png",
-    "IMAGES/12 - evernight.png",
-    "IMAGES/hawk.jpeg",
-    "IMAGES/party copy.jpg",
-    "IMAGES/wrick.jpeg",
-    "IMAGES/seraphine NEW.jpg",
     "IMAGES",
     "LOCATIONS/Shadowfell",
     "LOCATIONS/Material Plane/Oerth"
