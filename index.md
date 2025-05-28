@@ -6,6 +6,7 @@
 ## SECRETS
 1. [Link to Vecna](https://www.dndbeyond.com/feats/1929620-blessing-vecnas-link)
 2. [SECRETS LEARNED](<./SECRETS LEARNED/SECRETS LEARNED.html>)
+3. [Visions](<./SECRETS LEARNED/VISIONS.html>)
 
 ## THE LIGHTNINGNUTS
 1. [Hawk](<./PC's/Hawk.html>)
