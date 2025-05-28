@@ -25,12 +25,14 @@
             "id": "72f20bc32b39a615",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMAGES/00.2 Vecna rises.jpg"
+                "file": "SECRETS LEARNED/VISIONS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "00.2 Vecna rises"
+              "icon": "lucide-file",
+              "title": "VISIONS"
             }
           }
         ],
@@ -192,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64fa8821f51b1c71",
+  "active": "72f20bc32b39a615",
   "lastOpenFiles": [
+    "IMAGES/00.2 Vecna rises.jpg",
     "SECRETS LEARNED/VISIONS.md",
     "IMAGES/00.3 Ritual of Remaking.jpg",
-    "IMAGES/00.2 Vecna rises.jpg",
     "IMAGES/00 - sword of kas.webp",
     "IMAGES/00.1 Acererak.jpg",
     "IMAGES/00.0 Vecna's Tower.jpg",
