@@ -6,7 +6,7 @@
 
 [The Rotted Tower](<../IMAGES/00.0 Vecna's Tower.jpg>)
 
-[Vecna's apprenctice lich](<../IMAGES/00.1 Acererak.jpg>)
+[Vecna's Apprentice Lich](<../IMAGES/00.1 Acererak.jpg>)
 
 [The Sword of Kas](<../IMAGES/00 - sword of kas.webp>)
 

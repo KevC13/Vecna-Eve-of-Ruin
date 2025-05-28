@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SECRETS LEARNED/VISIONS.md",
+                "file": "NPC's/Minor NPC's/Lastai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VISIONS"
+              "title": "Lastai"
             }
           }
         ],
@@ -196,18 +196,20 @@
   },
   "active": "72f20bc32b39a615",
   "lastOpenFiles": [
-    "IMAGES/00.2 Vecna rises.jpg",
+    "NPC's/Minor NPC's/Lady of the Forest.md",
+    "NPC's/Minor NPC's/Lastai.md",
+    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
+    "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
     "SECRETS LEARNED/VISIONS.md",
+    "IMAGES/00.2 Vecna rises.jpg",
     "IMAGES/00.3 Ritual of Remaking.jpg",
     "IMAGES/00 - sword of kas.webp",
     "IMAGES/00.1 Acererak.jpg",
     "IMAGES/00.0 Vecna's Tower.jpg",
     "NPC's/Alustriel Silverhand.md",
-    "NPC's/Minor NPC's/Lady of the Forest.md",
     "NPC's/Minor NPC's/Jarot.md",
     "NPC's/Minor NPC's/Kevori.md",
     "LOCATIONS/Sigil.md",
-    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "PC's/Roman.md",
     "IMAGES/Sir Roman Purr.jpg",
@@ -227,7 +229,6 @@
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
     "IMAGES/17 - Newmy.png",
-    "NPC's/Minor NPC's/Raina.md",
     "IMAGES/14.5 - Sangora.png",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
