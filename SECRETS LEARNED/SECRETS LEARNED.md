@@ -2,3 +2,4 @@
 1. [Umberto](<../NPC's/Minor NPC's/Umberto Noblin.html>) is a historian studying the history of [Vecna](<../NPC's/Vecna.html>)
 2. [Sarcelle](<../NPC's/Minor NPC's/Sarcelle Malinosh.html>) recently had a vision about a dessicated man in golden armor gathering power and unleashing it to devastating result.
 3. ~~[Indrina](<../NPC's/Minor NPC's/Indrina Lamsensettle.html>) knows that [Lord Neverember's](<../NPC's/Lord Neverember.html>) claim to the throne isn't legitimate.~~ This secret was spent by [Hawk](<../PC's/Hawk.html>) in an unsuccessful effort to blackmail [Lord Neverember](<../NPC's/Lord Neverember.html>).
+4. [Hawk](<../PC's/Hawk.html>) learned that the shadow she unleashed while on [Oerth](<../LOCATIONS/Material Plane/Oerth/Oerth.html>) was actually [Kas](<../NPC's/Kas.html>) being freed from this prison in the [Shadowfell](<../LOCATIONS/Shadowfell/Shadowfell.html>).

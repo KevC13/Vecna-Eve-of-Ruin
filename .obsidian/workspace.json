@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 2 - The Wizards Three.md",
+                "file": "SECRETS LEARNED/SECRETS LEARNED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - The Wizards Three"
+              "title": "SECRETS LEARNED"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "1d7aeb6329ce277b",
   "lastOpenFiles": [
-    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "CHAPTERS/Chapter 2 - The Wizards Three.md",
+    "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "NPC's/Tasha.md",
     "NPC's/Mordenkainen.md",
     "NPC's/Alustriel Silverhand.md",
