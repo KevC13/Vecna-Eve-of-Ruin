@@ -1,4 +1,4 @@
-# Chapter 2 - The Wizard's Three
+# Chapter 2 - The Wizards Three
 
 ## MAGIC ITEMS/TREASURE FOUND
 - [Hawk](<../PC's/Hawk.html>) obtained the [Necklace of Prayer Beads](https://www.dndbeyond.com/magic-items/9228862-necklace-of-prayer-beads) from [Alustriel's](<../NPC's/Alustriel Silverhand.html>) Sanctum on [Sigil](<../LOCATIONS/Sigil.html>). The Necklace contains 2 beads of blessing, 1 bead of smiting, and one bead of summons.
