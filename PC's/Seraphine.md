@@ -6,6 +6,3 @@ Class: Cleric (Love Domain)
 
 Seraphine With Her Bling
 ![updated Seraphine Amoura](<../IMAGES/updated Seraphine Amoura.png>)
-
-Seraphine
-![seraphine NEW](<../IMAGES/seraphine NEW.jpg>)
