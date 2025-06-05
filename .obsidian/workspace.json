@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC's/Seraphine.md",
+                "file": "CHAPTERS/Chapter 2 - The Wizards Three.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seraphine"
+              "title": "Chapter 2 - The Wizards Three"
             }
           }
         ]
@@ -181,7 +181,10 @@
   },
   "active": "1d7aeb6329ce277b",
   "lastOpenFiles": [
+    "SECRETS LEARNED/Rod of Seven Parts.md",
+    "IMAGES/00-005.rod-of-seven-parts.png",
     "CHAPTERS/Chapter 2 - The Wizards Three.md",
+    "PC's/Seraphine.md",
     "IMAGES/updated Seraphine Amoura.png",
     "LOCATIONS/Sigil.md",
     "IMAGES/03 Sigil - 03.jpg",
@@ -201,7 +204,6 @@
     "IMAGES/00.2 Vecna rises.jpg",
     "IMAGES/00.3 Ritual of Remaking.jpg",
     "IMAGES/00 - sword of kas.webp",
-    "IMAGES/00.1 Acererak.jpg",
     "NPC's/Minor NPC's/Jarot.md",
     "NPC's/Minor NPC's/Kevori.md",
     "PC's/Roman.md",
@@ -214,8 +216,6 @@
     "LOCATIONS/Shadowfell/Smoldering Corpse Tavern.md",
     "LOCATIONS/Shadowfell/Corpse Market.md",
     "LOCATIONS/Shadowfell/Temple of Filth.md",
-    "LOCATIONS/Shadowfell/Shadowfell.md",
-    "LOCATIONS/Shadowfell/Evernight.md",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
     "SECRETS LEARNED",
