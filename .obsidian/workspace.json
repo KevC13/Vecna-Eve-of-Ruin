@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LOCATIONS/Sigil.md",
+                "file": "CHAPTERS/Chapter 2 - The Wizards Three.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sigil"
+              "title": "Chapter 2 - The Wizards Three"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "1d7aeb6329ce277b",
   "lastOpenFiles": [
+    "LOCATIONS/Sigil.md",
     "CHAPTERS/Chapter 2 - The Wizards Three.md",
     "IMAGES/03 Sigil - 03.jpg",
     "IMAGES/03 Sigil - 01.jpg",
@@ -203,7 +204,6 @@
     "IMAGES/00.0 Vecna's Tower.jpg",
     "NPC's/Minor NPC's/Jarot.md",
     "NPC's/Minor NPC's/Kevori.md",
-    "LOCATIONS/Sigil.md",
     "PC's/Roman.md",
     "NPC's/Minor NPC's/Newmy.md",
     "index.md",
