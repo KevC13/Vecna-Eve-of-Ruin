@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 2 - The Wizards Three.md",
+                "file": "PC's/Seraphine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - The Wizards Three"
+              "title": "Seraphine"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "1d7aeb6329ce277b",
   "lastOpenFiles": [
-    "LOCATIONS/Sigil.md",
     "CHAPTERS/Chapter 2 - The Wizards Three.md",
+    "IMAGES/updated Seraphine Amoura.png",
+    "LOCATIONS/Sigil.md",
     "IMAGES/03 Sigil - 03.jpg",
     "IMAGES/03 Sigil - 01.jpg",
     "SECRETS LEARNED/SECRETS LEARNED.md",
@@ -201,7 +202,6 @@
     "IMAGES/00.3 Ritual of Remaking.jpg",
     "IMAGES/00 - sword of kas.webp",
     "IMAGES/00.1 Acererak.jpg",
-    "IMAGES/00.0 Vecna's Tower.jpg",
     "NPC's/Minor NPC's/Jarot.md",
     "NPC's/Minor NPC's/Kevori.md",
     "PC's/Roman.md",
