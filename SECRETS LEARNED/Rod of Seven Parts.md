@@ -9,7 +9,6 @@ Notes:
 - Each piece has the ability to lead the way towards other pieces of the rod. 
 - The first piece has been found. 
 	![15.first-rod-of-seven-parts-piece](<../IMAGES/15.first-rod-of-seven-parts-piece.png>)
-	<img src="https://kevc13.github.io/Vecna-Eve-of-Ruin/IMAGES/15.first-rod-of-seven-parts-piece.png" width=50% height=50%>
 
 
 The Rod Fully Assembled
