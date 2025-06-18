@@ -10,5 +10,6 @@ Notes:
 - The first piece has been found. 
 	![15.first-rod-of-seven-parts-piece](<../IMAGES/15.first-rod-of-seven-parts-piece.png>)
 
+
 The Rod Fully Assembled
 ![00-005.rod-of-seven-parts](<../IMAGES/00-005.rod-of-seven-parts.png>)
