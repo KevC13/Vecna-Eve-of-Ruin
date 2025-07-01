@@ -3,6 +3,7 @@
 2. [Chapter 1 - Part 2 - Neverdeath Graveyard](<./CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.html>)
 3. [Chapter 1 - Part 3 - Escape From Evernight](<./CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.html>)
 4. [Chapter 2 - The Wizards Three](<./CHAPTERS/Chapter 2 - The Wizards Three.html>)
+5. [Chapter 3 - The Lambent Zenith](<./CHAPTERS/Chapter 3 - The Lambent Zenith.html>)
 
 ## SECRETS
 1. [Link to Vecna](https://www.dndbeyond.com/feats/1929620-blessing-vecnas-link)
