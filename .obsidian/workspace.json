@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "CHAPTERS/Chapter 3 - The Lambent Zenith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Chapter 3 - The Lambent Zenith"
             }
           }
         ]
@@ -181,7 +181,17 @@
   },
   "active": "1d7aeb6329ce277b",
   "lastOpenFiles": [
+    "LOCATIONS/Eberron.md",
     "CHAPTERS/Chapter 3 - The Lambent Zenith.md",
+    "LOCATIONS/Rock of Bral.md",
+    "NPC's/Large Luigi.md",
+    "IMAGES/SJ - 02 happy-beholder.jpg",
+    "IMAGES/SJ - 00 Rock of Bral.jpg",
+    "LOCATIONS/Astral Plane.md",
+    "IMAGES/MAP - Astral Sea.jpg",
+    "LOCATIONS/Shadowfell/Evernight.md",
+    "LOCATIONS/Shadowfell/Shadowfell.md",
+    "index.md",
     "CHAPTERS/Chapter 2 - The Wizards Three.md",
     "PC's/Roman.md",
     "IMAGES/RomanWithCloak.png",
@@ -199,9 +209,6 @@
     "NPC's/Tasha.md",
     "NPC's/Mordenkainen.md",
     "NPC's/Alustriel Silverhand.md",
-    "IMAGES/01.3 Tasha.png",
-    "IMAGES/01.2 Lady Alustriel.png",
-    "IMAGES/01.1 Mordenkainen.png",
     "NPC's/Minor NPC's/Lastai.md",
     "NPC's/Minor NPC's/Lady of the Forest.md",
     "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
@@ -209,13 +216,7 @@
     "NPC's/Minor NPC's/Jarot.md",
     "NPC's/Minor NPC's/Kevori.md",
     "NPC's/Minor NPC's/Newmy.md",
-    "index.md",
     "NPC's/Kas.md",
-    "NPC's/Minor NPC's/Sarcelle Malinosh.md",
-    "NPC's/Minor NPC's/Sena.md",
-    "NPC's/Minor NPC's/Sangora.md",
-    "LOCATIONS/Shadowfell/Smoldering Corpse Tavern.md",
-    "LOCATIONS/Shadowfell/Corpse Market.md",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
     "SECRETS LEARNED",
