@@ -26,4 +26,6 @@
 		- The rune on the stern is located on the headboard of the bed in the ship's stateroom. 
 		- The other is located on the wall above her desk in the study on the starboard segment of the ship. 
 	- Captain Inda's final request was to aid her in finding and uniting her crew, if any of them survived the wreck. 
-5. **As the [LightningNuts](<../PC's/LightningNuts.html>) began to travel across the gap to the starboard segment, they were suddenly attacked by to monstrous shark-like creatures called Night Scavvers!**
+5. **As the [LightningNuts](<../PC's/LightningNuts.html>) began to travel across the gap to the starboard segment, they were suddenly attacked by to monstrous shark-like creatures called Night Scavvers. While the battle raged, [Hawk](<../PC's/Hawk.html>) made her way to the starboard segment and found a large [treant](https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-t#Treant), named Redbud, anchored to the deck of the wrecked portion of the ship.**
+	- Hawk learned from Redbud that a large number of parasitic creatures were below decks, blocking the way to the location of the first rune and trapping his friend, the blink dog Ikasa. Undeterred, Hawk jumped down in to the ship ready to confront the monsters.
+	- After dealing with the night scavvers, the rest of the LightningNuts followed Hawk into the starboard segment of the ship, and soon dealt with parasitic monsters. 
