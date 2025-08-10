@@ -5,3 +5,4 @@
 4. [Hawk](<../PC's/Hawk.html>) learned that the shadow she unleashed while on [Oerth](<../LOCATIONS/Material Plane/Oerth/Oerth.html>) was actually [Kas](<../NPC's/Kas.html>) being freed from his prison in the [Shadowfell](<../LOCATIONS/Shadowfell/Shadowfell.html>).
 5. Gertrude, a cyclops found in the Lolth cult hideout, was the lone survivor of an ambushed caravan, and her svirnefblin friend Rockzanna knew about a larger attack that the Lolth’s cultists are planning, but out of fear said nothing. 
 6. Ikasa, the blink dog is the only creature who knew that a member of her crew fell overboard during a pirate attack and is lost somewhere floating/flying on the Astral Sea. 
+7. Figaro, the first mate of the crashed spelljamming ship, he knew about the dangers of the area of the Astral Sea where the ship crashed but deliberately hid this information from the captain and crew.
