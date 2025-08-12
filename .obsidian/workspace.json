@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 3 - The Lambent Zenith.md",
+                "file": "NPC's/Strahd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3 - The Lambent Zenith"
+              "title": "Strahd"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "1d7aeb6329ce277b",
   "lastOpenFiles": [
-    "NPC's/Strahd.md",
     "CHAPTERS/Chapter 3 - The Lambent Zenith.md",
+    "IMAGES/00 strahd-von-zarovich.png",
+    "NPC's/Strahd.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "LOCATIONS/Eberron.md",
     "LOCATIONS/Rock of Bral.md",
@@ -205,7 +206,6 @@
     "PC's/Seraphine.md",
     "IMAGES/updated Seraphine Amoura.png",
     "IMAGES/03 Sigil - 03.jpg",
-    "IMAGES/03 Sigil - 01.jpg",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "NPC's/Tasha.md",
     "NPC's/Mordenkainen.md",
@@ -216,7 +216,6 @@
     "SECRETS LEARNED/VISIONS.md",
     "NPC's/Minor NPC's/Jarot.md",
     "NPC's/Minor NPC's/Kevori.md",
-    "NPC's/Minor NPC's/Newmy.md",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
     "SECRETS LEARNED",
