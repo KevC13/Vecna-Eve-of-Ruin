@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Strahd.md",
+                "file": "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strahd"
+              "title": "Chapter 4 - The Ruined Colossus"
             }
           }
         ]
@@ -182,8 +182,9 @@
   "active": "1d7aeb6329ce277b",
   "lastOpenFiles": [
     "CHAPTERS/Chapter 3 - The Lambent Zenith.md",
-    "IMAGES/00 strahd-von-zarovich.png",
+    "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
     "NPC's/Strahd.md",
+    "IMAGES/00 strahd-von-zarovich.png",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "LOCATIONS/Eberron.md",
     "LOCATIONS/Rock of Bral.md",
