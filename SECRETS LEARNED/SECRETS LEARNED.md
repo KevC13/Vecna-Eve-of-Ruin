@@ -6,3 +6,4 @@
 5. Gertrude, a cyclops found in the Lolth cult hideout, was the lone survivor of an ambushed caravan, and her svirnefblin friend Rockzanna knew about a larger attack that the Lolth’s cultists are planning, but out of fear said nothing. 
 6. Ikasa, the blink dog is the only creature who knew that a member of her crew fell overboard during a pirate attack and is lost somewhere floating/flying on the Astral Sea. 
 7. Figaro, the first mate of the crashed spelljamming ship, he knew about the dangers of the area of the Astral Sea where the ship crashed but deliberately hid this information from the captain and crew.
+8. Mercy, the leader of the warforged pilgrims on [Eberron](<../LOCATIONS/Eberron.html>), admitted that her best friend has been missing in the Mournland since the Day of Mourning. Weighted with the responsibility of leadership, Mercy has never been able to search for this friend, a blue-and-red warforged named Filch.
