@@ -4,6 +4,7 @@
 3. [Chapter 1 - Part 3 - Escape From Evernight](<./CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.html>)
 4. [Chapter 2 - The Wizards Three](<./CHAPTERS/Chapter 2 - The Wizards Three.html>)
 5. [Chapter 3 - The Lambent Zenith](<./CHAPTERS/Chapter 3 - The Lambent Zenith.html>)
+6. [Chapter 4 - The Ruined Colossus](<./CHAPTERS/Chapter 4 - The Ruined Colossus.html>)
 
 ## SECRETS
 1. [Link to Vecna](https://www.dndbeyond.com/feats/1929620-blessing-vecnas-link)
