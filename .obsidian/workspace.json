@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Chapter 4 - The Ruined Colossus"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "1d7aeb6329ce277b",
   "lastOpenFiles": [
+    "index.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
     "CHAPTERS/Chapter 3 - The Lambent Zenith.md",
@@ -195,7 +196,6 @@
     "IMAGES/MAP - Astral Sea.jpg",
     "LOCATIONS/Shadowfell/Evernight.md",
     "LOCATIONS/Shadowfell/Shadowfell.md",
-    "index.md",
     "CHAPTERS/Chapter 2 - The Wizards Three.md",
     "PC's/Roman.md",
     "IMAGES/RomanWithCloak.png",
