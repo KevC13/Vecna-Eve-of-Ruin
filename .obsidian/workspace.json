@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4 - The Ruined Colossus"
+              "title": "index"
             }
           }
         ],
@@ -211,9 +211,11 @@
   },
   "active": "9f1b8f4ae3cabef7",
   "lastOpenFiles": [
+    "README.md",
+    "CHAPTERS/Chapter 5 - Death House.md",
+    "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
     "NPC's/Filomena.md",
     "NPC's/Minor NPC's/Sena.md",
-    "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "CHAPTERS/Chapter 2 - The Wizards Three.md",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
@@ -245,8 +247,6 @@
     "NPC's/Mordenkainen.md",
     "NPC's/Alustriel Silverhand.md",
     "NPC's/Minor NPC's/Lastai.md",
-    "NPC's/Minor NPC's/Lady of the Forest.md",
-    "LOCATIONS/Material Plane/Faerun/Neverwinter.md",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
     "SECRETS LEARNED",

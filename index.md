@@ -5,6 +5,7 @@
 4. [Chapter 2 - The Wizards Three](<./CHAPTERS/Chapter 2 - The Wizards Three.html>)
 5. [Chapter 3 - The Lambent Zenith](<./CHAPTERS/Chapter 3 - The Lambent Zenith.html>)
 6. [Chapter 4 - The Ruined Colossus](<./CHAPTERS/Chapter 4 - The Ruined Colossus.html>)
+7. [Chapter 5 - Death House](<./CHAPTERS/Chapter 5 - Death House.html>)
 
 ## SECRETS
 1. [Link to Vecna](https://www.dndbeyond.com/feats/1929620-blessing-vecnas-link)
