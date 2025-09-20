@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "SECRETS LEARNED/VISIONS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "VISIONS"
             }
           }
         ],
@@ -211,16 +211,17 @@
   },
   "active": "9f1b8f4ae3cabef7",
   "lastOpenFiles": [
+    "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
+    "SECRETS LEARNED/VISIONS.md",
+    "index.md",
     "README.md",
     "CHAPTERS/Chapter 5 - Death House.md",
-    "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
     "NPC's/Filomena.md",
     "NPC's/Minor NPC's/Sena.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "CHAPTERS/Chapter 2 - The Wizards Three.md",
     "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
-    "index.md",
     "CHAPTERS/Chapter 3 - The Lambent Zenith.md",
     "NPC's/Strahd.md",
     "IMAGES/00 strahd-von-zarovich.png",
@@ -246,7 +247,6 @@
     "NPC's/Tasha.md",
     "NPC's/Mordenkainen.md",
     "NPC's/Alustriel Silverhand.md",
-    "NPC's/Minor NPC's/Lastai.md",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
     "SECRETS LEARNED",
