@@ -8,3 +8,4 @@
 7. Figaro, the first mate of the crashed spelljamming ship, he knew about the dangers of the area of the Astral Sea where the ship crashed but deliberately hid this information from the captain and crew.
 8. Mercy, the leader of the warforged pilgrims on [Eberron](<../LOCATIONS/Eberron.html>), admitted that her best friend has been missing in the Mournland since the Day of Mourning. Weighted with the responsibility of leadership, Mercy has never been able to search for this friend, a blue-and-red warforged named Filch.
 9. Kalyth lost wealth that could have prevented the current financial strain she and her allies are under
+10. Sarusanda's father is a Priest of Osybus who committed deplorable acts of violence. This inspired Sarusanda to join the Ulimist Inquisition in order to hunt him down and bring justice to those he hurt.
