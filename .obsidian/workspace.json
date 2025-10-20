@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "CHAPTERS/Chapter 6 - Maztica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Chapter 6 - Maztica"
             }
           }
         ],
@@ -239,10 +239,15 @@
   },
   "active": "9b54ab2cbf0de5dc",
   "lastOpenFiles": [
-    "CHAPTERS/Chapter 6 - Maztica.md",
+    "NPC's/Minor NPC's/Concordia Purr.md",
+    "IMAGES/Concordia Purr.png",
     "CHAPTERS/Chapter 5 - Death House.md",
-    "SECRETS LEARNED/SECRETS LEARNED.md",
+    "CHAPTERS/Chapter 6 - Maztica.md",
+    "NPC's/Minor NPC's/Ares Purr.md",
+    "NPC's/Minor NPC's/Chanelle Hallwinter.md",
+    "NPC's/Alustriel Silverhand.md",
     "index.md",
+    "SECRETS LEARNED/SECRETS LEARNED.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
     "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
     "SECRETS LEARNED/VISIONS.md",
@@ -264,17 +269,11 @@
     "IMAGES/MAP - Astral Sea.jpg",
     "LOCATIONS/Shadowfell/Evernight.md",
     "LOCATIONS/Shadowfell/Shadowfell.md",
-    "PC's/Roman.md",
     "IMAGES/RomanWithCloak.png",
     "IMAGES/Roman and Wrick.png",
-    "SECRETS LEARNED/Rod of Seven Parts.md",
     "IMAGES/15.first-rod-of-seven-parts-piece.png",
-    "LOCATIONS/Sigil.md",
     "IMAGES/00-005.rod-of-seven-parts.png",
-    "PC's/Seraphine.md",
     "IMAGES/updated Seraphine Amoura.png",
-    "IMAGES/03 Sigil - 03.jpg",
-    "NPC's/Tasha.md",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
     "SECRETS LEARNED",
