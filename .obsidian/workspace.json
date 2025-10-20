@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 6 - Maztica.md",
+                "file": "NPC's/Minor NPC's/Ares Purr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6 - Maztica"
+              "title": "Ares Purr"
             }
           }
         ],
@@ -239,12 +239,14 @@
   },
   "active": "9b54ab2cbf0de5dc",
   "lastOpenFiles": [
-    "NPC's/Minor NPC's/Racs Purr.md",
-    "CHAPTERS/Chapter 6 - Maztica.md",
     "NPC's/Minor NPC's/Concordia Purr.md",
+    "NPC's/Minor NPC's/Ares Purr.md",
+    "NPC's/Minor NPC's/Racs Purr.md",
+    "IMAGES/Ares Purr Crop.png",
+    "IMAGES/Racs Purr.png",
+    "CHAPTERS/Chapter 6 - Maztica.md",
     "IMAGES/Concordia Purr.png",
     "CHAPTERS/Chapter 5 - Death House.md",
-    "NPC's/Minor NPC's/Ares Purr.md",
     "NPC's/Minor NPC's/Chanelle Hallwinter.md",
     "NPC's/Alustriel Silverhand.md",
     "index.md",
@@ -269,12 +271,9 @@
     "LOCATIONS/Astral Plane.md",
     "IMAGES/MAP - Astral Sea.jpg",
     "LOCATIONS/Shadowfell/Evernight.md",
-    "LOCATIONS/Shadowfell/Shadowfell.md",
     "IMAGES/RomanWithCloak.png",
     "IMAGES/Roman and Wrick.png",
     "IMAGES/15.first-rod-of-seven-parts-piece.png",
-    "IMAGES/00-005.rod-of-seven-parts.png",
-    "IMAGES/updated Seraphine Amoura.png",
     "PC's/_config.yml",
     "CHAPTERS/_config.yml",
     "SECRETS LEARNED",
