@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7684338e124aded9",
+        "id": "0a68cf0793e6e664",
         "type": "tabs",
         "children": [
           {
-            "id": "1d7aeb6329ce277b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHAPTERS/Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 1 - Part 3 - ESCAPE FROM EVERNIGHT"
-            }
-          },
-          {
-            "id": "0bd9799d6ffefe5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 4 - The Ruined Colossus"
-            }
-          },
-          {
-            "id": "9f1b8f4ae3cabef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "09f74be00fa7124c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHAPTERS/Chapter 5 - Death House.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 5 - Death House"
-            }
-          },
-          {
-            "id": "9b54ab2cbf0de5dc",
+            "id": "8a58a0ed488352f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +21,7 @@
               "title": "Chapter 6 - Maztica"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b54ab2cbf0de5dc",
+  "active": "8a58a0ed488352f4",
   "lastOpenFiles": [
     "NPC's/Kas.md",
     "CHAPTERS/Chapter 6 - Maztica.md",
