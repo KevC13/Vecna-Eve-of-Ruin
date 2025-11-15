@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 6 - Maztica.md",
+                "file": "SECRETS LEARNED/SECRETS LEARNED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6 - Maztica"
+              "title": "SECRETS LEARNED"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "8a58a0ed488352f4",
   "lastOpenFiles": [
-    "NPC's/Kas.md",
+    "index.md",
+    "CHAPTERS/Chapter 7 - Krynn.md",
     "CHAPTERS/Chapter 6 - Maztica.md",
+    "NPC's/Kas.md",
     "NPC's/Minor NPC's/Ares Purr.md",
     "NPC's/Minor NPC's/Concordia Purr.md",
     "NPC's/Minor NPC's/Racs Purr.md",
@@ -193,7 +195,6 @@
     "CHAPTERS/Chapter 5 - Death House.md",
     "NPC's/Minor NPC's/Chanelle Hallwinter.md",
     "NPC's/Alustriel Silverhand.md",
-    "index.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
     "CHAPTERS/Chapter 4 - The Ruined Colossus.md",
@@ -214,7 +215,6 @@
     "IMAGES/SJ - 00 Rock of Bral.jpg",
     "LOCATIONS/Astral Plane.md",
     "IMAGES/MAP - Astral Sea.jpg",
-    "LOCATIONS/Shadowfell/Evernight.md",
     "IMAGES/RomanWithCloak.png",
     "IMAGES/Roman and Wrick.png",
     "IMAGES/15.first-rod-of-seven-parts-piece.png",
