@@ -17,5 +17,6 @@
 		- Lastly, beware of drawing the focus of Lord Soth directly. He sticks to his keep in north, from were he directs his evil armies, but when he steps on the battle field he is an unconquerable force that wields the power of the cataclysm itself.  
 3. **Warnings in mind, Riffel guided the LightningNuts to the Three Moons Vault, taking them along a small hidden path on the mountainside below the fortress. At the end of the path lay a entrance to the lower dungeon, guarded by two constructs with crescent moon-shaped heads. While the party snuck forward, Riffel, ever fearful, elected to remain outside on the path, waiting to escort Velander if he could be rescued.**
 	- Dealing with the guards and dispelling a magical trap on the doors, the group entered the dungeon and made their way past a magically sealed barrier, using trial and error to determine the pattern of the runes needed to unlock the barrier. 
-	- Past the door they found a heavily guarded dungeon. 
+	- Past the door they found a heavily guarded dungeon. Wraiths wielding horns for alarm patrolled the halls, and as the invisible [Khoaz](<../PC's/Khoaz.html>) and [Wrick](<../PC's/Wrick.html>) scouted the rest of the dungeon, they discovered swarms of undead creatures lying in wait.
+	- Khoaz, also discovered a locked cell door, behind which he could hear the distinctly howls of the lycanthrope leader of the Blue Fire Wardens, Velander. 
 
