@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 7 - Krynn.md",
+                "file": "CHAPTERS/Chapter 8 - The Tomb of Wayward Souls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7 - Krynn"
+              "title": "Chapter 8 - The Tomb of Wayward Souls"
             }
           }
         ],
@@ -211,11 +211,12 @@
   },
   "active": "72f24489b61a584e",
   "lastOpenFiles": [
+    "CHAPTERS/Chapter 7 - Krynn.md",
+    "CHAPTERS/Chapter 8 - The Tomb of Wayward Souls.md",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "index.md",
-    "CHAPTERS/Chapter 7 - Krynn.md",
     "CHAPTERS/Chapter 6 - Maztica.md",
     "NPC's/Kas.md",
     "NPC's/Minor NPC's/Ares Purr.md",
@@ -242,7 +243,6 @@
     "NPC's/Large Luigi.md",
     "IMAGES/SJ - 02 happy-beholder.jpg",
     "IMAGES/SJ - 00 Rock of Bral.jpg",
-    "LOCATIONS/Astral Plane.md",
     "IMAGES/MAP - Astral Sea.jpg",
     "IMAGES/RomanWithCloak.png",
     "IMAGES/Roman and Wrick.png",
