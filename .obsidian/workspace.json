@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 8 - The Tomb of Wayward Souls.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 8 - The Tomb of Wayward Souls"
+              "title": "index"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "72f24489b61a584e",
   "lastOpenFiles": [
-    "CHAPTERS/Chapter 7 - Krynn.md",
     "CHAPTERS/Chapter 8 - The Tomb of Wayward Souls.md",
+    "CHAPTERS/Chapter 7 - Krynn.md",
     "CHAPTERS/Chapter 1 - Part 2 - NEVERDEATH GRAVEYARD.md",
     "CHAPTERS/Chapter 1 - Part 1 - NEST OF THE ELDRITCH EYE.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",

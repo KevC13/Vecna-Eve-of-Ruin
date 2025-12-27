@@ -8,6 +8,7 @@
 7. [Chapter 5 - Death House](<./CHAPTERS/Chapter 5 - Death House.html>)
 8. [Chapter 6 - Maztica](<./CHAPTERS/Chapter 6 - Maztica.html>)
 9. [Chapter 7 - Krynn](<./CHAPTERS/Chapter 7 - Krynn.html>)
+10. [Chapter 8 - The Tomb of Wayward Souls](<./CHAPTERS/Chapter 8 - The Tomb of Wayward Souls.html>)
 
 ## SECRETS
 1. [Link to Vecna](https://www.dndbeyond.com/feats/1929620-blessing-vecnas-link)
