@@ -48,4 +48,6 @@
 	- The others soon arrived, and they all witnessed the completion of the spell, the wizards all falling unconscious or exhausted and the sword clanging to the ground between them.
 	- They learned from Alustriel, that they had removed the evil sentience powering the sword, weakening it slightly, but much of its power remained intact.
 	- In addition, Alustriel presented Seraphine with a soul coin, Eldon finally able to unlock a way to see past Tiamat's barrier into Avernus. 
+	- Seraphine was able to now access visions of the locations of the final two pieces of the Rod of Seven Parts. The first, was contained within a dark tomb on the Isle of Serpents on Hawk's home planet of Oerth. The other piece was in bright casino, called the Red Belvedere, sitting in the heart of Avernus.
+	- After some deliberation, the LightningNuts decided to headed to Oerth and hunt for the entombed piece of the rod. 
 
