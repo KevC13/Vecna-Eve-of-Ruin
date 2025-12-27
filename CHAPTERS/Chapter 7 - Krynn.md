@@ -42,4 +42,10 @@
 	- Meanwhile, Seraphine grabbed Roman and began flying him towards the falling deathwolf and getting close to the unconscious Khoaz was able to send him powerful healing. Throwing Roman towards the deathwolf, Seraphine continued to heal Khoaz, who near fully restored, then dove after the deathwolf, seeking revenge!
 	- On the ground Hawk, and the now exhausted Wrick (having run down hundreds of flights of stairs), took on Teremini, and their combined magic was able to fell the archmage.
 	- Just as her body burned in a flash of radiant power, the sky ripped open, and through the now open portal in the sky, a massive Lunar Dragon emerged. Orinix, the teacher of Teremini, has arrived.
+	- To say the least, the lunar dragon battle was epic, but not surprisingly the LightningNuts were able to slay the adult dragon without suffering any major loss. 
+	- However, as they retreated to the portal, ready to return to the Sanctum, there were cast into another vision. They saw Vecna continuing to break free of his radiant prison, the dark power of his Ritual of Remaking snaking out to consume other gods, including the bard goddess Philomena, and making its way towards the Tabaxi god, but the vision ended before the party could see his fate.
+	- As they landed back in the safety of the Sanctum, they found it quiet. Even after taking their rest, they awoke to what seemed an empty space, but Roman awoke upstairs to find the Wizards Three, along with Eldon, casting the Wish spell to unmake the Sword of Kas. 
+	- The others soon arrived, and they all witnessed the completion of the spell, the wizards all falling unconscious or exhausted and the sword clanging to the ground between them.
+	- They learned from Alustriel, that they had removed the evil sentience powering the sword, weakening it slightly, but much of its power remained intact.
+	- In addition, Alustriel presented Seraphine with a soul coin, Eldon finally able to unlock a way to see past Tiamat's barrier into Avernus. 
 
