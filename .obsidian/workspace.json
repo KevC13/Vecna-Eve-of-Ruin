@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 8 - The Tomb of Wayward Souls.md",
+                "file": "SECRETS LEARNED/SECRETS LEARNED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 8 - The Tomb of Wayward Souls"
+              "title": "SECRETS LEARNED"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "72f24489b61a584e",
   "lastOpenFiles": [
-    "IMAGES/map-7.02-tomb-complex.png",
     "CHAPTERS/Chapter 8 - The Tomb of Wayward Souls.md",
+    "IMAGES/map-7.02-tomb-complex.png",
     "IMAGES/15.first-rod-of-seven-parts-piece.png",
     "index.md",
     "CHAPTERS/Chapter 7 - Krynn.md",

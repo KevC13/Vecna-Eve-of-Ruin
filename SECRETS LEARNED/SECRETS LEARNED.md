@@ -11,3 +11,4 @@
 10. Sarusanda's father is a Priest of Osybus who committed deplorable acts of violence. This inspired Sarusanda to join the Ulimist Inquisition in order to hunt him down and bring justice to those he hurt.
 11. The Dryad guardian of the Peylon tree hid in fear while evil soldiers attacked her tree and looted the piece of the Rod of Seven Parts.
 12. Valendar led an assault against his enemies without properly scouting the castle.
+13. Rerak resented his imprisonment in the Tomb of Wayward Souls and never wanted to enact Acererak’s will there.
