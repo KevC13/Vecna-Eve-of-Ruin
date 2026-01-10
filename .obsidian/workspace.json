@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 9 - Descent into Avernus.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 9 - Descent into Avernus"
+              "title": "index"
             }
           }
         ]
@@ -182,10 +182,10 @@
   },
   "active": "72f24489b61a584e",
   "lastOpenFiles": [
+    "CHAPTERS/Chapter 9 - Descent into Avernus.md",
     "SECRETS LEARNED/VISIONS.md",
     "index.md",
     "README.md",
-    "CHAPTERS/Chapter 9 - Descent into Avernus.md",
     "CHAPTERS/Chapter 8 - The Tomb of Wayward Souls.md",
     "SECRETS LEARNED/SECRETS LEARNED.md",
     "IMAGES/map-7.02-tomb-complex.png",
