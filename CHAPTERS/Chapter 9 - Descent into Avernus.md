@@ -10,4 +10,22 @@
 2. **As the LightningNuts entered into the portal, they soon found themselves onboard an infernal war machine run by three erinyes, Makyaia, Mykale, and Kypris. They agreed to take the LightningNuts to the Red Belvedere, in exchange for helping them raid some treasure from a group of demons. The LightningNuts agreed, and successfully aided the erinyes in overpowering the demons, but when they discovered that the treasure was a captive unicorn, things became heated between the party and the erinyes. Before things escalated, however, Wrick stepped in a convinced the erinyes to let the unicorn free.**
 	- After which, the erinyes, honored their deal and took the LightningNuts to the Red Belvedere. 
 3. **Arriving at the Red Belvedere, they found a brightly lit and glorious decorated casino. A gilded statue of a roaring dragon presided over the casino’s lobby, and as they entered they saw a red Tiefling with jet black hair and bright red eyes descending the central staircase. He was dressed in a well-cut suit, colored ink black, but the tailcoat which shimmered with every hue. As he made his way through the crowd, greeting guests, the LightningNuts could see the faintest hint of multicolored scales covering his skin and a multicolored rapier hanging at his side.**
-	- 
+	- The tiefling approached the party and introduced himself as Windfall. He welcomed them, and gave them a breakdown of the casino amenities. 
+		- Adventurers and devils alike can indulge in their vices in five different rooms, each with its own theme.
+
+o   **Currency.** The Red Belvedere has its own in-house currency, a “talon”. Both gold and **_Soul Coins_** can be traded for in-house currency at the exchange desk in the lobby.      
+
+§  **10GP = 1 Talon**
+
+§  **1 Soul Coin = 300 GP**
+
+§  **Curse**:
+
+·       DISAD: INT and WIS SAVES: mind is clouded by jealous and selfish thoughts**.**
+
+·       Remove Curse = Suppress for 1 hour
+
+·       End = DC18 CON or gain 1 level of Exhaustion (-2 on d20)
+
+o   **Dragon Queen Dedication.** The casino is dedicated to Tiamat to celebrate the Dragon Queen’s avarice and pride. Those who don’t worship Tiamat are also welcome to partake in the casino’s offerings.
+		- 
