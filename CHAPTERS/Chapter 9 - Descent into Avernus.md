@@ -7,4 +7,4 @@
 	- The champion is said to be a Tiefling of immense power named Windfall.
 	- While traveling the hellscape, beware, it is an eternal battlefield between devils and demons and it is impossible to fight every fiend you come across. You may even need to conscript their aid to travel the landscape, hitching a ride on one of their infernal war machines.
 	- While traveling, distance is impossible to gauge in the warped landscape. There is no way to map the land as things are constantly shifting. 
-2. **As the LightningNuts entered into the portal, they soon found themselves onboard an infernal war machine run by three erinyes, Makyaia, Mykale, and Kypris. They agreed to take the LightningNuts to the Red Belvedere, in exchange
+2. **As the LightningNuts entered into the portal, they soon found themselves onboard an infernal war machine run by three erinyes, Makyaia, Mykale, and Kypris. They agreed to take the LightningNuts to the Red Belvedere, in exchange for helping them raid some treasure from a group of demons. The LightningNuts agreed, and sucessfully aided the erinyes in overpowering the demons, but when they discovered that the treasure was a captive unicorn, 
