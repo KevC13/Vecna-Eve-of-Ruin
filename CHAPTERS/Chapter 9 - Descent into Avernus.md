@@ -20,3 +20,5 @@
 	- Meanwhile, Roman went to grab some food and relax, and Seraphine and Khoaz approached some of the other patrons to see what they could learn. 
 		- Seraphine, after sensing the location of the piece of the Rod of Seven parts was below them, inquired about what was down there and learned that there is a VIP club, known as the Dragon's Pride below the casino. 
 		- She also, learned that if you get in the good graces with one of the "pit masters", the creatures that run each game room, then you can get an invitation to the Dragon's Pride. 
+		- Khoaz learned that the fighting pits, offer the chance for up to three people to test their might against powerful creatures, and if you can win three bouts then Khai, the master of the fighting pits, deems you a worthy challenge of his power. 
+		- After pooling their newly learned knowledge Khoaz and Seraphine grabbed Roman and they headed towards the fighting pits in the hopes of gaining Khai's favor. 
