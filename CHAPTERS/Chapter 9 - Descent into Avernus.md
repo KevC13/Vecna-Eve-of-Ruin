@@ -17,4 +17,6 @@
 		- Hawk went to the racetrack and after wining some money on her first bet was approached by an elf, who asked if she would want to make a lot on the next race. Agreeing, he handed her a potion of speed and instructed her to slip the potion into the feeding trough of the nightmare racing horse named Sunshroud. 
 		- Hawk, was able to sneak her way into the stables, as a tiny spider, but when she went to pour the potion into the trough she awkwardly dropped the bottle and the racing horse became wary of the trough. In failure, she snuck her way back out to see the result of the race. 
 		- Wrick decided to try his luck at the games of chance, throwing dice in Tripe Hydra, and betting on card's in Drake's Auction. He quickly won a hefty sum of talons and decided to go see what the others were up to. 
-	-
+	- Meanwhile, Roman went to grab some food and relax, and Seraphine and Khoaz approached some of the other patrons to see what they could learn. 
+		- Seraphine, after sensing the location of the piece of the Rod of Seven parts was below them, inquired about what was down there and learned that there is a VIP club, known as the Dragon's Pride below the casino. 
+		- She also, learned that if you get in the good graces with one of the "pit masters", the creatures that run each game room, then you can get an invitation to the Dragon's Pride. 
