@@ -22,3 +22,9 @@
 		- She also, learned that if you get in the good graces with one of the "pit masters", the creatures that run each game room, then you can get an invitation to the Dragon's Pride. 
 		- Khoaz learned that the fighting pits, offer the chance for up to three people to test their might against powerful creatures, and if you can win three bouts then Khai, the master of the fighting pits, deems you a worthy challenge of his power. 
 		- After pooling their newly learned knowledge Khoaz and Seraphine grabbed Roman and they headed towards the fighting pits in the hopes of gaining Khai's favor. 
+	- Hawk, unsuccessful in fixing the horse race, returned to the lobby and found Wrick, who was eager to try out the Stygian Maze. Hawk agreed to go with him, and climbed the stairs to the maze to find the vampire pit master, Kaylan, awaiting them. He greeted them, took their entrance fee, and opened the way.
+		- Once inside, Hawk attempted to lead the way towards treasure.
+		- At times she was successful, finding potions, talons, soul coins, and a healing pool.
+		- Other times, however, she stumbled upon rooms filled with monsters and animated machines. 
+		- Tempting fate as long as they dared, Hawk and Wrick left the maze, and when they were once again greeted by the pitmaster Kaylan, the vampire greedily asked if they had any soul coins. Hesitant at first, they mentioned finding a couple, but after learning that Kaylan would be a hefty sum for soul coins they handed over each of the found items they had. 
+		- In horror, Hawk and Wrick watched as Kaylan hungrily sucked the soul out of one of the coins, but before they could flee, the pitmaster invited them to the elite private club of the casino, the Dragon's Pride. The invitation given, the two felt a tattoo of a dragon's claw magically form on their arm. He told them that the tattoo would grant them passage through the portal located within the dragon statue in the main lobby.
