@@ -27,24 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAPTERS/Chapter 9 - Descent into Avernus.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 9 - Descent into Avernus"
-            }
-          },
-          {
-            "id": "a8c70efde3a47542",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "index"
             }
           }
         ],
@@ -209,12 +197,13 @@
   },
   "active": "e6486b11c539c2bf",
   "lastOpenFiles": [
+    "CHAPTERS/Chapter 10 - Kas and the War of Pandesmos.md",
     "index.md",
     "CHAPTERS/Chapter 9 - Descent into Avernus.md",
+    "SECRETS LEARNED/SECRETS LEARNED.md",
     "SECRETS LEARNED/VISIONS.md",
     "README.md",
     "CHAPTERS/Chapter 8 - The Tomb of Wayward Souls.md",
-    "SECRETS LEARNED/SECRETS LEARNED.md",
     "IMAGES/map-7.02-tomb-complex.png",
     "IMAGES/15.first-rod-of-seven-parts-piece.png",
     "CHAPTERS/Chapter 7 - Krynn.md",
@@ -240,7 +229,6 @@
     "NPC's/Strahd.md",
     "IMAGES/00 strahd-von-zarovich.png",
     "LOCATIONS/Eberron.md",
-    "LOCATIONS/Rock of Bral.md",
     "IMAGES/SJ - 02 happy-beholder.jpg",
     "IMAGES/SJ - 00 Rock of Bral.jpg",
     "IMAGES/MAP - Astral Sea.jpg",

@@ -10,6 +10,7 @@
 9. [Chapter 7 - Krynn](<./CHAPTERS/Chapter 7 - Krynn.html>)
 10. [Chapter 8 - The Tomb of Wayward Souls](<./CHAPTERS/Chapter 8 - The Tomb of Wayward Souls.html>)
 11. [Chapter 9 - Descent into Avernus](<./CHAPTERS/Chapter 9 - Descent into Avernus.html>)
+12. [Chapter 10 - Kas and the War of Pandesmos](<./CHAPTERS/Chapter 10 - Kas and the War of Pandesmos.html>)
 
 ## SECRETS
 1. [Link to Vecna](https://www.dndbeyond.com/feats/1929620-blessing-vecnas-link)

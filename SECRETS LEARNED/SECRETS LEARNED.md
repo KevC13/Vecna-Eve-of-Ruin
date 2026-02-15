@@ -12,3 +12,4 @@
 11. The Dryad guardian of the Peylon tree hid in fear while evil soldiers attacked her tree and looted the piece of the Rod of Seven Parts.
 12. Valendar led an assault against his enemies without properly scouting the castle.
 13. Rerak resented his imprisonment in the Tomb of Wayward Souls and never wanted to enact Acererak’s will there.
+14. ~~Windfall was really an evil cleric named Bo Dargan, an former party member of Khoaz' brother Bruuz.~~ This secret was spent by Hawk to tap into the mind of Kas. 
