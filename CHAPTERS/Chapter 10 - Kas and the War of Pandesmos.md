@@ -15,5 +15,6 @@
 	- As the party debates about what to do next, the portal from the Sanctum glows and out walks the battered looking Wizard's Three leading a group of familiar faces. 
 	- The large force contains Bruuz, Vlad, Cade and Mulwae, Kevori and some Neverwinter Guards, Kalyth leading a small band of veterans from Eberron, Concordia, Roman’s Sister, leading a few Tabaxi warriors, and band of Blue Fire Wardens, including Riffel who transforms into a massive werewolf nearly three times bigger than his normal size.
 	- Assessing the situation Alustriel suggests that they handle the tower, while the party goes after Miska, Kas and the Rod of Seven Parts. From the tower they Wizard's Three would create a distraction amid the battlefield to buy the party time to get to Kas.
-3. **Agreeing the LightningNuts made their way towards the ruined Citadel. They had little issues approaching, but had to sneak past a patrol to gain entry and soon found them fighting room after room filled with demon wolf-spiders of all varieties.**
-	- 
+3. **Agreeing, the LightningNuts made their way towards the ruined Citadel. They had little issues approaching, but had to sneak past a patrol to gain entry and soon found themselves fighting room after room filled with demon wolf-spiders of all varieties.**
+	- After clearing the corridors within the Citadel, they found a map room detailing the battle, numerous treasure items, and Vaeve's sister, Naxa. 
+	- Speaking with her they learned that the sisters had come searching for a lost family relic, needed to safeguard their home. Naxa finally found the relic within the Citadel, and hearing this the LightningNuts felt the power of another [secret](<../SECRETS LEARNED/SECRETS LEARNED.html>) learned. 
