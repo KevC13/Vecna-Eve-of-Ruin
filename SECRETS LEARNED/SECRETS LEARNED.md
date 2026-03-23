@@ -1,5 +1,5 @@
 # SECRETS LEARNED
-1. [Umberto](<../NPC's/Minor NPC's/Umberto Noblin.html>) is a historian studying the history of [Vecna](<../NPC's/Vecna.html>)
+1. ~~[Umberto](<../NPC's/Minor NPC's/Umberto Noblin.html>) is a historian studying the history of [Vecna](<../NPC's/Vecna.html>)~~ This secret was spent by Hawk to rip Vecna's location from Kas' mind and to sever the connection to Kas. 
 2. ~~[Sarcelle](<../NPC's/Minor NPC's/Sarcelle Malinosh.html>) recently had a vision about a dessicated man in golden armor gathering power and unleashing it to devastating result.~~ This secret was spent by Hawk to tap into the mind of Kas. 
 3. ~~[Indrina](<../NPC's/Minor NPC's/Indrina Lamsensettle.html>) knows that [Lord Neverember's](<../NPC's/Lord Neverember.html>) claim to the throne isn't legitimate.~~ This secret was spent by [Hawk](<../PC's/Hawk.html>) in an unsuccessful effort to blackmail [Lord Neverember](<../NPC's/Lord Neverember.html>).
 4. [Hawk](<../PC's/Hawk.html>) learned that the shadow she unleashed while on [Oerth](<../LOCATIONS/Material Plane/Oerth/Oerth.html>) was actually [Kas](<../NPC's/Kas.html>) being freed from his prison in the [Shadowfell](<../LOCATIONS/Shadowfell/Shadowfell.html>).
@@ -14,3 +14,4 @@
 13. Rerak resented his imprisonment in the Tomb of Wayward Souls and never wanted to enact Acererak’s will there.
 14. Windfall was really an evil cleric named Bo Dargan, an former party member of Khoaz' brother Bruuz. 
 15. Naxa and her sister came to retrieve a cloak. It isn’t simply a fancy magic item—it’s a family heirloom that is key to a ritual of protection to safeguard their family home.
+16. Kas knows that Vecna is weaving the Ritual of Remaking in a nearby cavern known as the Cave of Shattered Reflection. 
